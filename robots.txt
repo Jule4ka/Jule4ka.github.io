@@ -1,0 +1,4 @@
+Sitemap: https://juuul.com/sitemapindex.xml
+
+User-Agent: *
+Host: juuul.com
