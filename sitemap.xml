@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://juuul.com/</loc>
-  <lastmod>2020-09-21T13:19:00Z</lastmod>
+  <lastmod>2020-09-21T15:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/2020/</loc>
@@ -19,11 +19,15 @@
  </url>
  <url>
   <loc>https://juuul.com/categories/</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/categories/something/</loc>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/es/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/es/2020/</loc>
@@ -35,7 +39,11 @@
  </url>
  <url>
   <loc>https://juuul.com/es/categories/</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/categories/something/</loc>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/es/galleries/</loc>
@@ -117,7 +125,7 @@
  </url>
  <url>
   <loc>https://juuul.com/es/posts/julikaaatje-new-post/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:54:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
  </url>
  <url>
@@ -142,7 +150,7 @@
  </url>
  <url>
   <loc>https://juuul.com/nl/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/nl/2020/</loc>
@@ -154,7 +162,11 @@
  </url>
  <url>
   <loc>https://juuul.com/nl/categories/</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/categories/something/</loc>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/nl/galleries/</loc>
@@ -236,7 +248,7 @@
  </url>
  <url>
   <loc>https://juuul.com/nl/posts/julikaaatje-new-post/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:54:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
  </url>
  <url>
@@ -297,11 +309,11 @@
  </url>
  <url>
   <loc>https://juuul.com/posts/julikaaatje-new-post/</loc>
-  <lastmod>2020-09-21T13:19:00Z</lastmod>
+  <lastmod>2020-09-21T15:54:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/ru/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/ru/2020/</loc>
@@ -313,7 +325,11 @@
  </url>
  <url>
   <loc>https://juuul.com/ru/categories/</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/categories/something/</loc>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/ru/galleries/</loc>
@@ -395,12 +411,12 @@
  </url>
  <url>
   <loc>https://juuul.com/ru/posts/julikaaatje-new-post/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:54:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
  </url>
  <url>
   <loc>https://juuul.com/uk/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/uk/2020/</loc>
@@ -412,7 +428,11 @@
  </url>
  <url>
   <loc>https://juuul.com/uk/categories/</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/categories/something/</loc>
+  <lastmod>2020-09-21T15:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/uk/galleries/</loc>
@@ -494,7 +514,7 @@
  </url>
  <url>
   <loc>https://juuul.com/uk/posts/julikaaatje-new-post/</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T15:54:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
  </url>
 </urlset>
