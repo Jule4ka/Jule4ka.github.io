@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://juuul.com/archive.html</loc>
-  <lastmod>2020-09-21T14:38:00Z</lastmod>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/authors/</loc>
@@ -58,6 +58,146 @@
   <lastmod>2020-09-21T13:19:00Z</lastmod>
  </url>
  <url>
+  <loc>https://juuul.com/es/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/2012/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/2020/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/archive.html</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/authors/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/authors/julia/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/authors/roberto-alsina/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/categories/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/categories/blog/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/categories/cat_nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/categories/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/categories/nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/categories/python/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/galleries/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/galleries/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/about-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/about-nikola/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/bootstrap-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/charts/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/charts/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/creating-a-theme/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/dr-nikolas-vendetta/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/extending/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/extending/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/handbook/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/handbook/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/internals/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/internals/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/listings-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/listings-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/path-handlers/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/path-handlers/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/quickref/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickref/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/quickstart/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickstart/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/social_buttons/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/social_buttons/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/pages/theming/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/theming/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/posts/julikaaatje-new-post/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/es/posts/welcome-to-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
   <loc>https://juuul.com/galleries/</loc>
   <lastmod>2020-09-21T13:19:00Z</lastmod>
  </url>
@@ -75,7 +215,147 @@
  </url>
  <url>
   <loc>https://juuul.com/listings/hello.py.html</loc>
-  <lastmod>2020-09-21T14:38:00Z</lastmod>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/2012/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/2020/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/archive.html</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/authors/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/authors/julia/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/authors/roberto-alsina/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/categories/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/categories/blog/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/categories/cat_nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/categories/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/categories/nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/categories/python/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/galleries/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/galleries/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/about-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/about-nikola/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/bootstrap-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/charts/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/charts/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/creating-a-theme/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/dr-nikolas-vendetta/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/extending/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/extending/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/handbook/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/handbook/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/internals/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/internals/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/listings-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/listings-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/path-handlers/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/path-handlers/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/quickref/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickref/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/quickstart/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickstart/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/social_buttons/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/social_buttons/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/pages/theming/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/theming/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/posts/julikaaatje-new-post/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/nl/posts/welcome-to-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
  </url>
  <url>
   <loc>https://juuul.com/pages/about-nikola/</loc>
@@ -140,5 +420,285 @@
  <url>
   <loc>https://juuul.com/posts/welcome-to-nikola/</loc>
   <lastmod>2020-09-21T13:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/2012/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/2020/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/archive.html</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/authors/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/authors/julia/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/authors/roberto-alsina/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/categories/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/categories/blog/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/categories/cat_nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/categories/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/categories/nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/categories/python/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/galleries/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/galleries/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/about-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/about-nikola/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/bootstrap-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/charts/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/charts/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/creating-a-theme/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/dr-nikolas-vendetta/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/extending/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/extending/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/handbook/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/handbook/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/internals/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/internals/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/listings-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/listings-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/path-handlers/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/path-handlers/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/quickref/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickref/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/quickstart/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickstart/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/social_buttons/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/social_buttons/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/pages/theming/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/theming/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/posts/julikaaatje-new-post/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/ru/posts/welcome-to-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/2012/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/2020/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/archive.html</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/authors/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/authors/julia/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/authors/roberto-alsina/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/categories/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/categories/blog/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/categories/cat_nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/categories/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/categories/nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/categories/python/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/galleries/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/galleries/demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/about-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/about-nikola/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/bootstrap-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/bootstrap-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/charts/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/charts/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/creating-a-theme/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/creating-a-theme/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/dr-nikolas-vendetta/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/dr-nikolas-vendetta/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/extending/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/extending/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/handbook/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/handbook/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/internals/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/internals/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/listings-demo/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/listings-demo/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/path-handlers/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/path-handlers/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/quickref/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickref/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/quickstart/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/quickstart/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/social_buttons/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/social_buttons/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/pages/theming/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/pages/theming/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/posts/julikaaatje-new-post/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/julikaaatje-new-post/" />
+ </url>
+ <url>
+  <loc>https://juuul.com/uk/posts/welcome-to-nikola/</loc>
+  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
  </url>
 </urlset>
