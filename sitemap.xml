@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://juuul.com/archive.html</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T14:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/authors/</loc>
@@ -71,7 +71,7 @@
  </url>
  <url>
   <loc>https://juuul.com/es/archive.html</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T14:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/es/authors/</loc>
@@ -195,7 +195,6 @@
  <url>
   <loc>https://juuul.com/es/posts/welcome-to-nikola/</loc>
   <lastmod>2020-09-21T14:45:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
  </url>
  <url>
   <loc>https://juuul.com/galleries/</loc>
@@ -215,7 +214,7 @@
  </url>
  <url>
   <loc>https://juuul.com/listings/hello.py.html</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T14:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/nl/</loc>
@@ -231,7 +230,7 @@
  </url>
  <url>
   <loc>https://juuul.com/nl/archive.html</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T14:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/nl/authors/</loc>
@@ -355,7 +354,6 @@
  <url>
   <loc>https://juuul.com/nl/posts/welcome-to-nikola/</loc>
   <lastmod>2020-09-21T14:45:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
  </url>
  <url>
   <loc>https://juuul.com/pages/about-nikola/</loc>
@@ -435,7 +433,7 @@
  </url>
  <url>
   <loc>https://juuul.com/ru/archive.html</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T14:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/ru/authors/</loc>
@@ -559,7 +557,6 @@
  <url>
   <loc>https://juuul.com/ru/posts/welcome-to-nikola/</loc>
   <lastmod>2020-09-21T14:45:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
  </url>
  <url>
   <loc>https://juuul.com/uk/</loc>
@@ -575,7 +572,7 @@
  </url>
  <url>
   <loc>https://juuul.com/uk/archive.html</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T14:49:00Z</lastmod>
  </url>
  <url>
   <loc>https://juuul.com/uk/authors/</loc>
@@ -699,6 +696,5 @@
  <url>
   <loc>https://juuul.com/uk/posts/welcome-to-nikola/</loc>
   <lastmod>2020-09-21T14:45:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://juuul.com/posts/welcome-to-nikola/" />
  </url>
 </urlset>
