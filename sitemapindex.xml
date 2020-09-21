@@ -6,62 +6,6 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://juuul.com/authors/julia.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/categories/blog.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/categories/cat_nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/categories/demo.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/categories/nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/categories/python.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/es/authors/julia.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/es/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/es/categories/blog.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/es/categories/cat_nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/es/categories/demo.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/es/categories/nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/es/categories/python.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://juuul.com/es/galleries/demo/rss.xml</loc>
   <lastmod>2020-09-21T14:49:00Z</lastmod>
  </sitemap>
@@ -82,34 +26,6 @@
   <lastmod>2020-09-21T14:49:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/nl/authors/julia.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/nl/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/nl/categories/blog.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/nl/categories/cat_nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/nl/categories/demo.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/nl/categories/nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/nl/categories/python.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://juuul.com/nl/galleries/demo/rss.xml</loc>
   <lastmod>2020-09-21T14:49:00Z</lastmod>
  </sitemap>
@@ -126,34 +42,6 @@
   <lastmod>2020-09-21T14:49:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/ru/authors/julia.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/categories/blog.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/categories/cat_nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/categories/demo.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/categories/nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/categories/python.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://juuul.com/ru/galleries/demo/rss.xml</loc>
   <lastmod>2020-09-21T14:49:00Z</lastmod>
  </sitemap>
@@ -167,35 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>https://juuul.com/sitemap.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/authors/julia.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/categories/blog.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/categories/cat_nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/categories/demo.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/categories/nikola.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/categories/python.xml</loc>
-  <lastmod>2020-09-21T14:45:00Z</lastmod>
+  <lastmod>2020-09-21T14:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://juuul.com/uk/galleries/demo/rss.xml</loc>
