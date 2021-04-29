@@ -6,87 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://juuul.com/categories/something.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
+  <loc>https://Juleska.github.io/authors/julia.xml</loc>
+  <lastmod>2021-04-29T12:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/es/categories/something.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
+  <loc>https://Juleska.github.io/authors/roberto-alsina.xml</loc>
+  <lastmod>2021-04-29T12:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/es/galleries/demo/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <loc>https://Juleska.github.io/categories/blog.xml</loc>
+  <lastmod>2021-04-29T12:18:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/es/galleries/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <loc>https://Juleska.github.io/categories/cat_nikola.xml</loc>
+  <lastmod>2021-04-29T12:18:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/es/rss.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
+  <loc>https://Juleska.github.io/categories/demo.xml</loc>
+  <lastmod>2021-04-29T12:18:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/galleries/demo/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <loc>https://Juleska.github.io/categories/nikola.xml</loc>
+  <lastmod>2021-04-29T12:18:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/galleries/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <loc>https://Juleska.github.io/categories/python.xml</loc>
+  <lastmod>2021-04-29T12:18:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/nl/categories/something.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
+  <loc>https://Juleska.github.io/galleries/demo/rss.xml</loc>
+  <lastmod>2021-04-29T12:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/nl/galleries/demo/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <loc>https://Juleska.github.io/galleries/rss.xml</loc>
+  <lastmod>2021-04-29T12:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/nl/galleries/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
+  <loc>https://Juleska.github.io/rss.xml</loc>
+  <lastmod>2021-04-29T12:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://juuul.com/nl/rss.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/rss.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/categories/something.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/galleries/demo/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/galleries/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/ru/rss.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/sitemap.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/categories/something.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/galleries/demo/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/galleries/rss.xml</loc>
-  <lastmod>2020-09-21T14:49:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://juuul.com/uk/rss.xml</loc>
-  <lastmod>2020-09-21T15:54:00Z</lastmod>
+  <loc>https://Juleska.github.io/sitemap.xml</loc>
+  <lastmod>2021-04-29T12:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>
