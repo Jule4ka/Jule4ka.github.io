@@ -1,4 +1,4 @@
-Sitemap: https://Juleska.github.io/sitemapindex.xml
+Sitemap: https://Jule4ka.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: Juleska.github.io
+Host: Jule4ka.github.io
