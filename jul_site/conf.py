@@ -140,9 +140,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/index.html", "Home"),
+        ("/my-pics/", "Pics"),
+        ("/my-thoughts/", "Thoughts"),
     ),
 }
 
@@ -154,7 +154,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootblog4-jinja"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -256,7 +256,7 @@ PAGES = (
 # (e.g. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "Europe/Berlin"
+TIMEZONE = "Europe/Amsterdam"
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -312,11 +312,11 @@ TIMEZONE = "Europe/Berlin"
 COMPILERS = {
     "rest": ['.rst', '.txt'],
     "markdown": ['.md', '.mdown', '.markdown'],
-    "textile": ['.textile'],
-    "txt2tags": ['.t2t'],
-    "bbcode": ['.bb'],
-    "wiki": ['.wiki'],
-    "ipynb": ['.ipynb'],
+    #"textile": ['.textile'],
+    #"txt2tags": ['.t2t'],
+    #"bbcode": ['.bb'],
+    #"wiki": ['.wiki'],
+    #"ipynb": ['.ipynb'],
     "html": ['.html', '.htm'],
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run

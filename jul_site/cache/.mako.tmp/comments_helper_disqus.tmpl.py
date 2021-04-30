@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1619700866.591821
+_modified_time = 1619705372.7877119
 _enable_loop = True
 _template_filename = 'c:/jul/github_projects/jule4ka.github.io/venv/lib/site-packages/nikola/data/themes/base/templates/comments_helper_disqus.tmpl'
 _template_uri = 'comments_helper_disqus.tmpl'
@@ -65,8 +65,8 @@ def render_comment_form(context,url,title,identifier):
 def render_comment_link(context,link,identifier):
     __M_caller = context.caller_stack._push_frame()
     try:
-        messages = context.get('messages', UNDEFINED)
         comment_system_id = context.get('comment_system_id', UNDEFINED)
+        messages = context.get('messages', UNDEFINED)
         __M_writer = context.writer()
         __M_writer('\n')
         if comment_system_id:
