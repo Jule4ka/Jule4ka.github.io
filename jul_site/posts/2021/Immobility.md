@@ -7,9 +7,12 @@
 .. description: 
 .. type: text
 
-Bark is something that stays. [gallery](link://gallery_global/bark)
+Bark is something that stays.
 
-####Or is it better embedded?
+####Gallery
+[gallery](link://gallery_global/bark)
+
+####Embedded
 
 
 <div class="d-flex justify-content-center">
