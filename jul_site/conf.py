@@ -259,13 +259,13 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "blog", "post.tmpl"),
+    #("posts/*.rst", "blog", "post.tmpl"),
     ("posts/*.md", "blog", "post.tmpl"),
     ("posts/*.txt", "blog", "post.tmpl"),
     ("posts/*.html", "blog", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
+    #("pages/*.rst", "pages", "page.tmpl"),
     ("pages/*.md", "pages", "page.tmpl"),
     ("pages/*.txt", "pages", "page.tmpl"),
     ("pages/*.html", "pages", "page.tmpl"),
@@ -709,7 +709,7 @@ GITHUB_REMOTE_NAME = 'origin'
 
 # Whether or not github_deploy should commit to the source branch automatically
 # before deploying.
-GITHUB_COMMIT_SOURCE = False
+GITHUB_COMMIT_SOURCE = True
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
