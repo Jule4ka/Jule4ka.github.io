@@ -138,13 +138,38 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
+        ("/my-projects/", "Projects"),
         ("/my-pics/", "Pics"),
         ("/my-thoughts/", "Thoughts"),
+        (
+            (
+                ("/my-lists/reading-list/", "Reading list"),
+                ("/my-lists/movies-list/", "Movies list"),
+                ("/my-lists/conferences-list", "Conferences list"),
+                ("/my-lists/studies-list", "Studies list"),
+                ("/my-lists/music-list", "Music list"),
+                ("/my-lists/travel-list", "Travel list"),
+                ("/my-lists/podcasts-list", "Podcasts list"),
+            ),
+            "Lists"
+        ),
+        (
+            (
+                ("/blog/", "My blog"),
+                ("/categories/", "Categories and tags"),
+                ("/archive.html", "Archive"),
+                ("/blog/rss.xml", "RSS feed"),
+                ("/blog/feed.atom", "Atom feed")
+            ),
+            "Blog"
+        ),
     ),
 }
+
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -234,10 +259,10 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.rst", "blog", "post.tmpl"),
+    ("posts/*.md", "blog", "post.tmpl"),
+    ("posts/*.txt", "blog", "post.tmpl"),
+    ("posts/*.html", "blog", "post.tmpl"),
 )
 PAGES = (
     ("pages/*.rst", "pages", "page.tmpl"),
@@ -246,6 +271,8 @@ PAGES = (
     ("pages/*.html", "pages", "page.tmpl"),
 )
 
+# And to avoid a conflict because blogs try to generate /index.html
+INDEX_PATH = "blog"
 
 # Below this point, everything is optional
 
@@ -310,7 +337,7 @@ TIMEZONE = "Europe/Amsterdam"
 # 'markdown' is Markdown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
-    "rest": ['.rst', '.txt'],
+    #"rest": ['.rst', '.txt'],
     "markdown": ['.md', '.mdown', '.markdown'],
     #"textile": ['.textile'],
     #"txt2tags": ['.t2t'],
@@ -347,11 +374,11 @@ COMPILERS = {
 # Use date-based path when creating posts?
 # Can be enabled on a per-post basis with `nikola new_post -d`.
 # The setting is ignored when creating pages.
-# NEW_POST_DATE_PATH = False
+NEW_POST_DATE_PATH = True
 
 # What format to use when creating posts with date paths?
 # Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
-# NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
+NEW_POST_DATE_PATH_FORMAT = '%Y'
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
@@ -592,7 +619,7 @@ FRONT_INDEX_HEADER = {
 # If monthly archives or full archives are created, adds also one archive per day
 # CREATE_DAILY_ARCHIVE = False
 # Create previous, up, next navigation links for archives
-# CREATE_ARCHIVE_NAVIGATION = False
+CREATE_ARCHIVE_NAVIGATION = True
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -623,7 +650,7 @@ FRONT_INDEX_HEADER = {
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
 # (translatable)
-# RSS_PATH = ""
+RSS_PATH = "blog"
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
@@ -674,15 +701,15 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_SOURCE_BRANCH = 'main'
+GITHUB_DEPLOY_BRANCH = 'gh-pages'
 
 # The name of the remote where you wish to push to, using github_deploy.
 GITHUB_REMOTE_NAME = 'origin'
 
 # Whether or not github_deploy should commit to the source branch automatically
 # before deploying.
-GITHUB_COMMIT_SOURCE = True
+GITHUB_COMMIT_SOURCE = False
 
 # Where the output site should be located
 # If you don't use an absolute path, it will be considered as relative
@@ -922,18 +949,19 @@ IMAGE_FOLDERS = {'images': 'images'}
 # This list MAY be incomplete since pygments adds styles every now and then.
 # Check with list(pygments.styles.get_all_styles()) in an interpreter.
 #
-# CODE_COLOR_SCHEME = 'default'
+CODE_COLOR_SCHEME = 'arduino'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = (
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = (
+    ("icon", "/assets/favicons/favicon-16x16.png", "16x16"),
+    ("icon", "/assets/favicons/favicon-32x32.png", "32x32"),
+    ("icon", "/assets/favicons/favicon-96x96.png", "96x96"),
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -1173,7 +1201,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # By default, Nikola generates RSS files for the website and for tags, and
 # links to it.  Set this to False to disable everything RSS-related.
-# GENERATE_RSS = True
+GENERATE_RSS = True
 
 # By default, Nikola does not generates Atom files for indexes and links to
 # them. Generate Atom for tags by setting TAG_PAGES_ARE_INDEXES to True.
@@ -1182,7 +1210,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # FEED_TEASER option. FEED_LINKS_APPEND_QUERY is also respected. Atom feeds
 # are generated even for old indexes and have pagination link relations
 # between each other. Old Atom feeds with no changes are marked as archived.
-# GENERATE_ATOM = False
+GENERATE_ATOM = True
 
 # Only include teasers in Atom and RSS feeds. Disabling include the full
 # content. Defaults to True.
@@ -1256,7 +1284,10 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
+EXTRA_HEAD_DATA = """
+<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101316585);</script>
+<script async src="//static.getclicky.com/js"></script>
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
@@ -1395,6 +1426,14 @@ WARN_ABOUT_TAG_METADATA = False
 # Consult your engine's documentation on filters if you need help defining
 # those.
 # TEMPLATE_FILTERS = {}
+
+def split_blog_title(title, index):
+    import re
+    return re.search("^(\(.*\)) (.*)$", title)[index]
+
+TEMPLATE_FILTERS = {
+    "split_blog_title": split_blog_title
+}
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
