@@ -259,16 +259,16 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    #("posts/*.rst", "blog", "post.tmpl"),
+    ("posts/*.rst", "blog", "post.tmpl"),
     ("posts/*.md", "blog", "post.tmpl"),
     ("posts/*.txt", "blog", "post.tmpl"),
     ("posts/*.html", "blog", "post.tmpl"),
 )
 PAGES = (
-    #("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 
 # And to avoid a conflict because blogs try to generate /index.html
