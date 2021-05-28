@@ -8,7 +8,7 @@
 .. type: text
 
 ####Bark
-One of ideas which came to my mind during the hike in the office
+One of ideas which came to my mind during the hike in the forest
 
 ####Gallery
 [gallery](link://gallery_global/bark)
