@@ -15,7 +15,9 @@
 		<p>This place should help me to aim and structure all those ideas which are running through my head! </p>
 		<p>Other places where I'm present:</p>
 		<ul>
-			<li><a href="localhost">Localhost</a></li>
+			<li><a href="https://twitter.com/Juuuuuuuulka">Twitter</a></li>
+            <li><a href="https://www.goodreads.com/user/show/3531743-jule444ka">Goodreads</a></li>
+            <li><a href="https://www.icheckmovies.com/profiles/jule444ka/">ICheckMovies</a></li>
 		</ul>
 	</div>>
 	<div style="max-width:300px">
