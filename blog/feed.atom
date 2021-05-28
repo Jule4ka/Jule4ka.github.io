@@ -3,7 +3,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
   <title>Jul site</title>
   <id>https://Jule4ka.github.io/blog/feed.atom</id>
-  <updated>2021-05-12T15:20:19Z</updated>
+  <updated>2021-05-28T14:38:03Z</updated>
   <author>
     <name>Julia</name>
   </author>
@@ -19,10 +19,10 @@
       <name>Julia</name>
     </author>
     <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/2021/immobility/"/>
-    <summary type="html">&lt;div&gt;&lt;p&gt;Bark is something that stays.&lt;/p&gt;
+    <summary type="html">&lt;div&gt;&lt;h5&gt;Bark&lt;/h5&gt;
+&lt;p&gt;One of ideas which came to my mind during the hike in the office&lt;/p&gt;
 &lt;h5&gt;Gallery&lt;/h5&gt;
 &lt;p&gt;&lt;a href="https://Jule4ka.github.io/galleries/bark/"&gt;gallery&lt;/a&gt;&lt;/p&gt;
-&lt;h5&gt;Embedded&lt;/h5&gt;
 &lt;div class="d-flex justify-content-center"&gt;
     &lt;figure class="figure" style="width:60%"&gt;
         &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark1.JPG" class="figure-img img-fluid rounded" alt="Bark1"&gt;

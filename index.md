@@ -18,7 +18,7 @@
 			<li><a href="localhost">Localhost</a></li>
 		</ul>
 	</div>>
-	<div style="max-width:200px">
+	<div style="max-width:300px">
 		<img src="/images/2021/home/Jul_blur.JPG" style="margin-top:0px;" alt="Blurred as I am"/>
 	</div>
 </div>

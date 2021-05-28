@@ -6,47 +6,47 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>https://Jule4ka.github.io/</loc>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://Jule4ka.github.io/2021/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/archive.html</loc>
-  <lastmod>2021-05-12T15:20:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/2021/immobility/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/categories/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/galleries/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/galleries/bark/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/listings/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/listings/__pycache__/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/listings/hello.py.html</loc>
-  <lastmod>2021-05-12T15:20:00Z</lastmod>
- </url>
- <url>
-  <loc>https://Jule4ka.github.io/pages/</loc>
-  <lastmod>2021-05-12T15:04:00Z</lastmod>
+  <lastmod>2021-05-28T14:26:00Z</lastmod>
  </url>
 </urlset>

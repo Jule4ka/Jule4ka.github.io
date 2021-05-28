@@ -7,13 +7,11 @@
 .. description: 
 .. type: text
 
-Bark is something that stays.
+####Bark
+One of ideas which came to my mind during the hike in the office
 
 ####Gallery
 [gallery](link://gallery_global/bark)
-
-####Embedded
-
 
 <div class="d-flex justify-content-center">
 	<figure class="figure" style="width:60%">
