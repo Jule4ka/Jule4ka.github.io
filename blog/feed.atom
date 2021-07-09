@@ -3,7 +3,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
   <title>Jul site</title>
   <id>https://Jule4ka.github.io/blog/feed.atom</id>
-  <updated>2021-05-28T15:45:17Z</updated>
+  <updated>2021-07-09T10:17:41Z</updated>
   <author>
     <name>Julia</name>
   </author>
@@ -11,74 +11,20 @@
   <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/"/>
   <generator uri="https://getnikola.com/">Nikola</generator>
   <entry>
-    <title>Immobility</title>
-    <id>https://Jule4ka.github.io/blog/2021/immobility/</id>
+    <title>Ideas</title>
+    <id>https://Jule4ka.github.io/blog/2021/Ideas/</id>
     <updated>2021-04-29T15:52:23+02:00</updated>
     <published>2021-04-29T15:52:23+02:00</published>
     <author>
       <name>Julia</name>
     </author>
-    <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/2021/immobility/"/>
-    <summary type="html">&lt;div&gt;&lt;h5&gt;Bark&lt;/h5&gt;
-&lt;p&gt;One of ideas which came to my mind during the hike in the forest&lt;/p&gt;
-&lt;h5&gt;Gallery&lt;/h5&gt;
-&lt;p&gt;&lt;a href="https://Jule4ka.github.io/galleries/bark/"&gt;gallery&lt;/a&gt;&lt;/p&gt;
-&lt;div class="d-flex justify-content-center"&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark1.JPG" class="figure-img img-fluid rounded" alt="Bark1"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark1&lt;/figcaption&gt;
-    &lt;/figure&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark3.JPG" class="figure-img img-fluid rounded" alt="Bark3"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark3&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;div class="d-flex justify-content-center"&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark4.JPG" class="figure-img img-fluid rounded" alt="Bark4"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark4&lt;/figcaption&gt;
-    &lt;/figure&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark5.JPG" class="figure-img img-fluid rounded" alt="Bark5"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark5&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;div class="d-flex justify-content-center"&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark9.JPG" class="figure-img img-fluid rounded" alt="Bark9"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark9&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;div class="d-flex justify-content-center"&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark2.JPG" class="figure-img img-fluid rounded" alt="Bark2"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark2&lt;/figcaption&gt;
-    &lt;/figure&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark6.JPG" class="figure-img img-fluid rounded" alt="Bark6"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark6&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;div class="d-flex justify-content-center"&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark7.JPG" class="figure-img img-fluid rounded" alt="Bark7"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark7&lt;/figcaption&gt;
-    &lt;/figure&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark8.JPG" class="figure-img img-fluid rounded" alt="Bark8"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark8&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-
-&lt;div class="d-flex justify-content-center"&gt;
-    &lt;figure class="figure" style="width:60%"&gt;
-        &lt;img src="https://Jule4ka.github.io/images/2021/bark/bark10.JPG" class="figure-img img-fluid rounded" alt="Bark10"&gt;
-    &lt;figcaption class="figure-caption text-center"&gt;bark10&lt;/figcaption&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;&lt;/div&gt;</summary>
+    <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/2021/Ideas/"/>
+    <summary type="html">&lt;div&gt;&lt;h2&gt;Ideas for blog posts. Maybe i'll finally do it some day :)&lt;/h2&gt;
+&lt;h4&gt;2021&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Diving/Trust + Testing&lt;/li&gt;
+&lt;li&gt;Anger Management and Expectations Alignment at work&lt;/li&gt;
+&lt;li&gt;Taking control over your craziness :) &lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</summary>
   </entry>
 </feed>

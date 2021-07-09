@@ -11,17 +11,18 @@
 <h1>About me</h1>
 
 <div class="d-flex flex-wrap justify-content-between">
-	<div style="max-width:70%" class="mr-5">
-		<p>This place should help me to aim and structure all those ideas which are running through my head! </p>
+<div style="max-width:70%" class="mr-5">
+		<br>
+        <p>I always wanted to have a site :) Now let's figure out what to put here. 
+            For now I'll use it as a placeholder for whatever ideas come across. All the opinions are mine.</p>
 		<p>Other places where I'm present:</p>
 		<ul>
 			<li><a href="https://twitter.com/Juuuuuuuulka">Twitter</a></li>
             <li><a href="https://www.goodreads.com/user/show/3531743-jule444ka">Goodreads</a></li>
             <li><a href="https://www.icheckmovies.com/profiles/jule444ka/">ICheckMovies</a></li>
+            <li><a href="https://open.spotify.com/user/11160229186">Spotify</a></li>
 		</ul>
-	</div>>
-	<div style="max-width:300px">
-		<img src="/images/2021/home/Jul_blur.JPG" style="margin-top:0px;" alt="Blurred as I am"/>
-	</div>
 </div>
-
+	<div style="max-width:250px">
+		<img src="/images/2021/home/jul.jpeg" style="margin-top:0px;" alt="Not amused as usual"/>
+	</div>

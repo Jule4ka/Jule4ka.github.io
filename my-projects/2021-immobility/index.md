@@ -1,5 +1,6 @@
+<!--
 .. title: Immobility
-.. slug: immobility
+.. slug: 2021-immobility
 .. date: 2021-04-29 15:52:23 UTC+02:00
 .. tags: 
 .. category: 
@@ -9,9 +10,6 @@
 
 ####Bark
 One of ideas which came to my mind during the hike in the forest
-
-####Gallery
-[gallery](link://gallery_global/bark)
 
 <div class="d-flex justify-content-center">
 	<figure class="figure" style="width:60%">

@@ -19,3 +19,4 @@
 - Don't Look Now 1973 - Nicolas Roeg. Found on ICheckMovies. 5/5
 - Profondo Rosso 1975 - Dario Argento. Found on ICheckMovies. 3/5
 - Naked 1993 - Mike Leigh. Found on ICheckMovies. 5/5
+- Krótki film o miłości 1988 - Krzysztof Kieślowski. 4/5
