@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: true
 
 ####Bark
 One of ideas which came to my mind during the hike in the forest

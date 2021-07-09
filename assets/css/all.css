@@ -1101,3 +1101,281 @@ article .metadata {
     }
 }
 
+@font-face{
+  font-family: 'Montserrat';
+  src: url('/assets/fonts/Montserrat/Montserrat-Regular.woff2') format('woff2'),
+       url('/assets/fonts/Montserrat/Montserrat-Regular.woff') format('woff'),
+       url('/assets/fonts/Montserrat/Montserrat-Regular.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Montserrat';
+  src: url('/assets/fonts/Montserrat/Montserrat-Italic.woff2') format('woff2'),
+       url('/assets/fonts/Montserrat/Montserrat-Italic.woff') format('woff'),
+       url('/assets/fonts/Montserrat/Montserrat-Italic.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: 'Montserrat';
+  src: url('/assets/fonts/Montserrat/Montserrat-SemiBold.woff2') format('woff2'),
+       url('/assets/fonts/Montserrat/Montserrat-SemiBold.woff') format('woff'),
+       url('/assets/fonts/Montserrat/Montserrat-SemiBold.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Montserrat';
+  src: url('/assets/fonts/Montserrat/Montserrat-SemiBoldItalic.woff2') format('woff2'),
+       url('/assets/fonts/Montserrat/Montserrat-SemiBoldItalic.woff') format('woff'),
+       url('/assets/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: 'Zilla Slab';
+  src: url('https://code.cdn.mozilla.net/fonts/woff2/ZillaSlab-Medium.woff2') format('woff2'),
+       url('https://code.cdn.mozilla.net/fonts/woff/ZillaSlab-Medium.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/ZillaSlab-Medium.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Zilla Slab';
+  src: url('https://code.cdn.mozilla.net/fonts/woff2/ZillaSlab-MediumItalic.woff2') format('woff2'),
+       url('https://code.cdn.mozilla.net/fonts/woff/ZillaSlab-MediumItalic.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/ZillaSlab-MediumItalic.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face{
+  font-family: 'Zilla Slab';
+  src: url('https://code.cdn.mozilla.net/fonts/woff2/ZillaSlab-SemiBold.woff2') format('woff2'),
+       url('https://code.cdn.mozilla.net/fonts/woff/ZillaSlab-SemiBold.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/ZillaSlab-SemiBold.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face{
+  font-family: 'Zilla Slab';
+  src: url('https://code.cdn.mozilla.net/fonts/woff2/ZillaSlab-SemiBoldItalic.woff2') format('woff2'),
+       url('https://code.cdn.mozilla.net/fonts/woff/ZillaSlab-SemiBoldItalic.woff') format('woff'),
+       url('https://code.cdn.mozilla.net/fonts/ttf/ZillaSlab-SemiBoldItalic.ttf') format('truetype');
+  font-display: swap;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.blog-header-logo
+{
+  font-family: 'Zilla Slab', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-item {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Zilla Slab', serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.body-content {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.body-content em {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.body-content strong {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.body-content strong > em, .body-content em > strong {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+div.container {
+  max-width: 960px;
+}
+
+div.container#content {
+  max-width: 900px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(0,0,0,.55);
+}
+
+#footer {
+  color: rgba(0,0,0,.55);
+}
+
+.body-content a {
+  color: #0273ec;
+}
+
+.body-content a.badge-secondary {
+  color: #ffffff;
+}
+
+#footer a {
+  color: #0273ec;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  text-decoration: underline;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #0273ec;
+}
+
+nav.archivenav {
+  margin-bottom: 1.3rem;
+}
+
+nav.archivenav li a {
+  border: 0px;
+}
+
+nav.archivenav li.disabled a {
+  color: #737373;
+  cursor: default;
+}
+
+nav.archivenav li.disabled a:hover {
+  text-decoration: none;
+}
+
+.body-content img {
+	margin: 10px 10px 10px 10px;
+}
+
+p + ul {
+   margin-top: -0.9rem;
+}
+
+p:empty {
+  margin-bottom: 0rem;
+}
+
+blockquote {
+  border-left: 5px solid blueviolet;
+  padding-left: 1rem;
+}
+
+blockquote p {
+  font-size: 1.1rem;
+}
+
+h4 + ul {
+  margin-top: -0.4rem;
+}
+
+h5 + ul {
+  margin-top: -0.3rem;
+}
+
+/*.body-content h1 {
+  font-size: 2.5rem;
+}*/
+
+.body-content h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.body-content h3 {
+  font-size: 1.7rem;
+  margin-top: 1.7rem;
+}
+
+.body-content h4 {
+  font-size: 1.4rem;
+  margin-top: 0.7rem;
+  margin-bottom: 0.3rem;
+}
+
+.body-content h5 {
+  font-size: 1.2rem;
+  font-style: italic;
+  margin-bottom: 0.2rem;
+}
+
+/*.body-content h6 {
+  font-size: 0.9rem;
+}*/
+
+
+/* styling for my talks page */
+
+h3.year {
+  margin-top: 2.0rem;
+  margin-bottom: -0.8rem;
+}
+
+div.presentation {
+  margin-top: 1.3rem;
+  margin-bottom: 1.5rem;
+}
+
+h5.co-presenter, p.co-presenter {
+  margin-bottom: -0.1rem;
+  font-family: 'Montserrat Italic', sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+h4.title, h5.title, p.title, h5.title > a {
+  margin-bottom: 0rem;
+  font-family: 'Montserrat SemiBold', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+h5.talk, p.talk {
+  padding-left: 2rem;
+  font-style: normal;
+  font-weight: normal;
+}
+
+h6.note {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 0.95rem;
+}
+
+span.note {
+  font-size: 0.9rem;
+}
