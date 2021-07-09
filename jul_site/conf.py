@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Julia"  # (translatable)
-BLOG_TITLE = "Jul site"  # (translatable)
+BLOG_TITLE = "Julia Paranich"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://Jule4ka.github.io/"
@@ -152,6 +152,7 @@ NAVIGATION_LINKS = {
             (
                 ("/my-lists/reading-list/", "Reading list"),
                 ("/my-lists/movies-list/", "Movies list"),
+                ("/my-lists/music-list/", "Music list"),
                 ("/my-lists/conferences-list/", "Conferences list"),
                 ("/my-lists/studies-list/", "Studies list"),
                 ("/my-lists/travel-list/", "Travel list"),
@@ -160,6 +161,7 @@ NAVIGATION_LINKS = {
             ),
             "Lists"
         ),
+        ("/my-work/", "Work"),
         (
             (
                 ("/blog/", "My blog"),
@@ -172,7 +174,6 @@ NAVIGATION_LINKS = {
         ),
     ),
 }
-
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
@@ -340,13 +341,13 @@ TIMEZONE = "Europe/Amsterdam"
 # 'markdown' is Markdown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
-    #"rest": ['.rst', '.txt'],
+    # "rest": ['.rst', '.txt'],
     "markdown": ['.md', '.mdown', '.markdown'],
-    #"textile": ['.textile'],
-    #"txt2tags": ['.t2t'],
-    #"bbcode": ['.bb'],
-    #"wiki": ['.wiki'],
-    #"ipynb": ['.ipynb'],
+    # "textile": ['.textile'],
+    # "txt2tags": ['.t2t'],
+    # "bbcode": ['.bb'],
+    # "wiki": ['.wiki'],
+    # "ipynb": ['.ipynb'],
     "html": ['.html', '.htm'],
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
@@ -1425,6 +1426,7 @@ USE_TAG_METADATA = False
 # migration was successful.
 WARN_ABOUT_TAG_METADATA = False
 
+
 # Templates will use those filters, along with the defaults.
 # Consult your engine's documentation on filters if you need help defining
 # those.
@@ -1433,6 +1435,7 @@ WARN_ABOUT_TAG_METADATA = False
 def split_blog_title(title, index):
     import re
     return re.search("^(\(.*\)) (.*)$", title)[index]
+
 
 TEMPLATE_FILTERS = {
     "split_blog_title": split_blog_title

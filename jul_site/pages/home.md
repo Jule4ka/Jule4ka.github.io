@@ -9,19 +9,28 @@
 .. type: text
 .. hidetitle: true
 
-<h1>About me</h1>
+#About me
 
 <div class="d-flex flex-wrap justify-content-between">
 <div style="max-width:70%" class="mr-5">
 		<br>
-        <p>I always wanted to have a site :) Now let's figure out what to put here. 
-            For now I'll use it as a placeholder for whatever ideas come across. All the opinions are mine.</p>
-		<p>Other places where I'm present:</p>
+        <p> My name is Julia and I care for too many things at the same time.</p>
+        <p>
+            Work-wise my experience spans from being a member of software development teams in the capacity of test/business analyst and scrum master 
+            to serving clients in financial services industry as a solution consultant. At the moment I'm getting more and more interested 
+            in studying information systems on the academic level.
+        </p>        
+        <p>
+            When it comes to activities outside of work, my name is chaos. :D I jump into new things quickly and I jump out of them even quicker.
+        </p>
+        <p>
+            The purpose of this site is to serve me as a platform for capturing and expressing my ideas in whatever way/format I wish.
+        </p>
+		<p>Other online places where I am present:</p>
 		<ul>
 			<li><a href="https://twitter.com/Juuuuuuuulka">Twitter</a></li>
-            <li><a href="https://www.goodreads.com/user/show/3531743-jule444ka">Goodreads</a></li>
-            <li><a href="https://www.icheckmovies.com/profiles/jule444ka/">ICheckMovies</a></li>
-            <li><a href="https://open.spotify.com/user/11160229186">Spotify</a></li>
+            <li><a href="https://github.com/Jule4ka">GitHub</a></li>
+            <li><a href="https://www.facebook.com/julia.julkazzz">Facebook</a></li>
 		</ul>
 </div>
 	<div style="max-width:200px">
