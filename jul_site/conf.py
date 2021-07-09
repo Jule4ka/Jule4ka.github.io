@@ -142,18 +142,21 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
-        ("/my-projects/", "Projects"),
-        ("/my-pics/", "Pics"),
-        ("/my-thoughts/", "Thoughts"),
+        (
+            (
+                ("/my-projects/2021-immobility/", "2021-immobility"),
+            ),
+            "Projects"
+        ),
         (
             (
                 ("/my-lists/reading-list/", "Reading list"),
                 ("/my-lists/movies-list/", "Movies list"),
-                ("/my-lists/conferences-list", "Conferences list"),
-                ("/my-lists/studies-list", "Studies list"),
-                ("/my-lists/music-list", "Music list"),
-                ("/my-lists/travel-list", "Travel list"),
-                ("/my-lists/podcasts-list", "Podcasts list"),
+                ("/my-lists/conferences-list.md/", "Conferences list"),
+                ("/my-lists/studies-list/", "Studies list"),
+                ("/my-lists/travel-list/", "Travel list"),
+                ("/my-lists/podcasts-list/", "Podcasts list"),
+                ("/my-lists/activities-list/", "Activities list"),
             ),
             "Lists"
         ),
@@ -163,7 +166,7 @@ NAVIGATION_LINKS = {
                 ("/categories/", "Categories and tags"),
                 ("/archive.html", "Archive"),
                 ("/blog/rss.xml", "RSS feed"),
-                ("/blog/feed.atom", "Atom feed")
+                ("/blog/feed.atom", "Atom feed"),
             ),
             "Blog"
         ),
@@ -179,7 +182,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4-jinja"
+THEME = "bootblog4-jinja"  # bootblog4 uses mako, bootblog4-jinja uses jinja
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -1437,7 +1440,8 @@ TEMPLATE_FILTERS = {
 
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
-GLOBAL_CONTEXT = {}
+GLOBAL_CONTEXT = {
+}
 
 # Add functions here and they will be called with template
 # GLOBAL_CONTEXT as parameter when the template is about to be
