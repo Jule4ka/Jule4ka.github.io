@@ -10,3 +10,11 @@
 .. hidetitle: false
 
 # Activities list
+- Beach! Volleyball
+- Badminton
+- Tennis
+- Squash
+- Climbing
+- Hiking
+- Diving
+- SUP :) 

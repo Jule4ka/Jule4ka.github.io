@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://Jule4ka.github.io/</loc>
-  <lastmod>2021-07-09T10:17:00Z</lastmod>
+  <lastmod>2021-07-09T14:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/2021/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/archive.html</loc>
-  <lastmod>2021-07-09T10:55:00Z</lastmod>
+  <lastmod>2021-07-09T14:31:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/</loc>
@@ -30,18 +30,6 @@
   <lastmod>2021-07-09T10:17:00Z</lastmod>
  </url>
  <url>
-  <loc>https://Jule4ka.github.io/listings/</loc>
-  <lastmod>2021-07-09T10:17:00Z</lastmod>
- </url>
- <url>
-  <loc>https://Jule4ka.github.io/listings/__pycache__/</loc>
-  <lastmod>2021-07-09T10:17:00Z</lastmod>
- </url>
- <url>
-  <loc>https://Jule4ka.github.io/listings/hello.py.html</loc>
-  <lastmod>2021-07-09T10:34:00Z</lastmod>
- </url>
- <url>
   <loc>https://Jule4ka.github.io/my-lists/activities-list/</loc>
   <lastmod>2021-07-09T10:17:00Z</lastmod>
  </url>
@@ -52,6 +40,14 @@
  <url>
   <loc>https://Jule4ka.github.io/my-lists/movies-list/</loc>
   <lastmod>2021-07-09T10:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-lists/music-list/</loc>
+  <lastmod>2021-07-09T14:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-lists/my-music/</loc>
+  <lastmod>2021-07-09T14:30:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-lists/podcasts-list/</loc>
@@ -72,5 +68,9 @@
  <url>
   <loc>https://Jule4ka.github.io/my-projects/2021-immobility/</loc>
   <lastmod>2021-07-09T10:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-work/</loc>
+  <lastmod>2021-07-09T14:07:00Z</lastmod>
  </url>
 </urlset>
