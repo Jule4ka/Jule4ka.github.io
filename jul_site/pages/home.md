@@ -7,6 +7,7 @@
 .. link: 
 .. description: 
 .. type: text
+.. hidetitle: true
 
 <h1>About me</h1>
 
@@ -23,6 +24,6 @@
             <li><a href="https://open.spotify.com/user/11160229186">Spotify</a></li>
 		</ul>
 </div>
-	<div style="max-width:250px">
+	<div style="max-width:200px">
 		<img src="/images/2021/home/jul.jpeg" style="margin-top:0px;" alt="Not amused as usual"/>
 	</div>

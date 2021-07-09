@@ -152,7 +152,7 @@ NAVIGATION_LINKS = {
             (
                 ("/my-lists/reading-list/", "Reading list"),
                 ("/my-lists/movies-list/", "Movies list"),
-                ("/my-lists/conferences-list.md/", "Conferences list"),
+                ("/my-lists/conferences-list/", "Conferences list"),
                 ("/my-lists/studies-list/", "Studies list"),
                 ("/my-lists/travel-list/", "Travel list"),
                 ("/my-lists/podcasts-list/", "Podcasts list"),
