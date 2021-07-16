@@ -1,6 +1,6 @@
 <!--
-.. title: Music list 
-.. slug: music-list
+.. title: Travels list
+.. slug: travels-list
 .. date: 2021-05-12 18:08:21 UTC+02:00
 .. tags: 
 .. category: 
@@ -9,6 +9,4 @@
 .. type: text
 .. hidetitle: false
 
-# Music list
-
-[My Spotify profile](https://open.spotify.com/user/11160229186)
+# Travels List
