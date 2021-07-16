@@ -1,6 +1,6 @@
 <!--
-.. title: Conferences list
-.. slug: conferences-list
+.. title: Talks list
+.. slug: talks-list
 .. date: 2021-05-12 16:32:21 UTC+02:00
 .. tags:
 .. category:
@@ -9,7 +9,7 @@
 .. type: text
 .. hidetitle: false
 
-# Conferences list
+# Conferences and Talks list
 
 I came to realisation that conferences and talks can and do bring value
 

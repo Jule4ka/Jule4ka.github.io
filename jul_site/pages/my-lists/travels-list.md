@@ -1,6 +1,6 @@
 <!--
-.. title: Travel list
-.. slug: travel-list
+.. title: Travels list
+.. slug: travels-list
 .. date: 2021-05-12 18:08:21 UTC+02:00
 .. tags: 
 .. category: 
@@ -9,4 +9,4 @@
 .. type: text
 .. hidetitle: false
 
-# Travel List
+# Travels List
