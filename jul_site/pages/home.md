@@ -14,7 +14,7 @@
 <div class="d-flex flex-wrap justify-content-between">
 <div style="max-width:70%" class="mr-5">
 		<br>
-        <p> My name is Julia and I care for too many things at the same time.</p>
+        <p> My name is Julia.</p>
         <p>
             Work-wise my experience spans from being a member of software development teams in the capacity of test/business analyst and scrum master 
             to serving clients in financial services industry as a solution consultant. At the moment I'm getting more and more interested 
@@ -24,7 +24,7 @@
             When it comes to activities outside of work, my name is chaos. :D I jump into new things quickly and I jump out of them even quicker.
         </p>
         <p>
-            The purpose of this site is to serve me as a platform for capturing and expressing my ideas in whatever way/format I wish.
+            The purpose of this space is to serve me as a platform for capturing and expressing my ideas in whatever way/format I wish.
         </p>
 		<p>Other online places where I am present:</p>
 		<ul>
