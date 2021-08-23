@@ -10,3 +10,7 @@
 .. hidetitle: false
 
 # Travels List
+
+###2021 - Corona, new job, studying -> not that many travels
+1. July 2021 - Ameland (Netherlands)
+2. August 2021 - Kyiv (Ukraine)

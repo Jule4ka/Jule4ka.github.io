@@ -16,9 +16,7 @@
 		<br>
         <p> My name is Julia.</p>
         <p>
-            Work-wise my experience spans from being a member of software development teams in the capacity of test/business analyst and scrum master 
-            to serving clients in financial services industry as a solution consultant. At the moment I'm getting more and more interested 
-            in studying information (tech+humans) systems at academic level.
+            Work-wise I´m kind of okay and consciously decided to keep it calm.
         </p>        
         <p>
             When it comes to activities outside of work, my name is chaos. :D I jump into new things quickly and I jump out of them even quicker.
@@ -31,6 +29,8 @@
 			<li><a href="https://twitter.com/Juuuuuuuulka">Twitter</a></li>
             <li><a href="https://github.com/Jule4ka">GitHub</a></li>
             <li><a href="https://www.facebook.com/julia.julkazzz">Facebook</a></li>
+            <li><a href="https://www.goodreads.com/user/show/3531743-jule444ka">Goodreads</a></li>
+            <li><a href="https://www.icheckmovies.com/profiles/jule444ka/">ICheckMovies</a></li>
 		</ul>
 </div>
 	<div style="max-width:200px">
