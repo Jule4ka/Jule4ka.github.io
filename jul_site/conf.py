@@ -178,7 +178,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4-jinja"  # bootblog4 uses mako, bootblog4-jinja uses jinja
+THEME = "bootblog4"  # bootblog4 uses mako, bootblog4-jinja uses jinja
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
@@ -948,7 +948,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # This list MAY be incomplete since pygments adds styles every now and then.
 # Check with list(pygments.styles.get_all_styles()) in an interpreter.
 #
-CODE_COLOR_SCHEME = 'arduino'
+#CODE_COLOR_SCHEME = 'arduino'
 
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
