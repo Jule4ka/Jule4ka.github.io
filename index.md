@@ -34,5 +34,5 @@
 		</ul>
 </div>
 	<div style="max-width:200px">
-		<img src="/images/2021/home/jul.jpeg" style="margin-top:0px;" alt="Not amused as usual"/>
+		<img src="/assets/images/2021/home/jul.jpeg" style="margin-top:0px;" alt="Not amused as usual"/>
 	</div>
