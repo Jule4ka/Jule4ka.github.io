@@ -150,13 +150,9 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/my-lists/reading-list/", "Reading list"),
-                ("/my-lists/movies-list/", "Movies list"),
-                ("/my-lists/inspiration-list/", "Inspiration list"),
-                ("/my-lists/conferences-talks-list/", "Talks list"),
-                ("/my-lists/courses-list/", "Courses list"),
+                ("/my-lists/resources-list/", "Resources list"),
                 ("/my-lists/travels-list/", "Travels list"),
-                ("/my-lists/experiences-list/", "Experiences list"),
+                ("/my-lists/activities-list/", "Activities list"),
             ),
             "Lists"
         ),

@@ -9,7 +9,7 @@
 .. type: text
 .. hidetitle: true
 
-# Work
+# What I do to support myself
 
 [My Linkedin profile](https://www.linkedin.com/in/julia-paranich-4b326337/)
 
