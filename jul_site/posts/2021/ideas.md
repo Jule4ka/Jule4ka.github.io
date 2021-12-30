@@ -10,6 +10,7 @@
 # Ideas for blog posts. Maybe i'll finally do it some day :)
 
 ### 2021
-- Diving/Trust + Testing
+- Diving/Trust + Testing/pairing/collaboration
 - Anger Management and Expectations Alignment at work
 - Taking control over your craziness :) 
+- Incident in the train (fu-fu-fu)... continuity, circularity

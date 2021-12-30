@@ -145,6 +145,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/my-projects/2021-immobility/", "2021-immobility"),
+                ("/my-projects/2021-wadlopen/", "2021-wadlopen"),
             ),
             "Projects"
         ),
