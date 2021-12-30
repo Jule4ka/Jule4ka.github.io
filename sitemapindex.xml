@@ -6,19 +6,15 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://Jule4ka.github.io/galleries/bark/rss.xml</loc>
-  <lastmod>2021-04-29T14:10:00Z</lastmod>
+  <loc>https://Jule4ka.github.io/blog/feed.atom</loc>
+  <lastmod>2021-12-30T09:59:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://Jule4ka.github.io/galleries/rss.xml</loc>
-  <lastmod>2021-04-29T14:10:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://Jule4ka.github.io/rss.xml</loc>
-  <lastmod>2021-05-11T15:44:00Z</lastmod>
+  <loc>https://Jule4ka.github.io/blog/rss.xml</loc>
+  <lastmod>2021-12-30T09:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/sitemap.xml</loc>
-  <lastmod>2021-05-11T15:44:00Z</lastmod>
+  <lastmod>2021-12-30T09:59:00Z</lastmod>
  </sitemap>
 </sitemapindex>
