@@ -9,27 +9,26 @@
 .. type: text
 .. hidetitle: false
 
-# Activities and hobbies list
+Activities and hobbies list
+===============================================
 
-<table class="table table-sm" style="max-width:600px">
-  <thead class="thead-light">
-    <tr>
-      <th scope="col">Type</th>
-      <th scope="col">Activity1</th>
-      <th scope="col">Activity2</th>
-      <th scope="col">Activity3</th>
-      <th scope="col">Activity4</th>
-      <th scope="col">Activity5</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Hobby sport regular</td>
-      <td>Badminton</td>
-<td>Tennis</td>
-<td>Gym and home stuff</td>
-<td>Beach volleyball</td>
-<td>Onefit</td>
+* Sport
+    - Badminton
+    - Tennis
+    - Gym and trampoline
+    - Beach volleyball
+    - Kickboxing
+    - Dancing
+    - Badminton
+* Other
+    - Travelling
+    - Camping
+    - Games
+    - Events
+* Creative do and consume
+    - Photography
+    - Piano
+
     </tr>
     <tr>
       <td>Hobby other regular</td>

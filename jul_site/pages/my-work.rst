@@ -9,18 +9,25 @@
 .. type: text
 .. hidetitle: true
 
-# What I do to support myself
+What I do to support myself
+==============================
 
-[My Linkedin profile](https://www.linkedin.com/in/julia-paranich-4b326337/)
+https://www.linkedin.com/in/julia-paranich-4b326337/
 
-### Title now
+Title now
+-----------------
 Business Consultant and Data Analyst
 
-### Titles before
+Titles before
+-----------------
 Automation Test Engineer, Senior Test Analyst, Senior Business Consultant, Software Test Engineer, Scrum Master
 
-### CV
+CV
+-----------------
 Here I'll attach my CV
 
-### Email
-[julia.paranich@gmail.com](mailto:julia.paranich@gmail.com)
+Email
+-----------------
+julia.paranich@gmail.com
+
+

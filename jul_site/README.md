@@ -11,5 +11,5 @@ site built with [Nikola](https://getnikola.com/) hosted on <https://Jule4ka.gith
 
 ## Refs
 https://getnikola.com/quickref.html
-
 Configuration file for the site is ``conf.py``.
+All the posts were moved to rst format because of python compile error 
