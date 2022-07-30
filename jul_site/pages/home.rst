@@ -13,7 +13,7 @@ About me
 ============================
 My name is Julia.
 
-Work-wise I´m kind of okay and consciously decided to keep it calm.
+Work-wise I am kind of okay and consciously decided to keep it calm.
 When it comes to activities outside of work, my name is chaos. :D I jump into new things quickly and I jump out of them even quicker.
 The purpose of this space is to serve me as a platform for capturing and expressing my ideas in whatever way/format I wish.
 
