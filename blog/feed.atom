@@ -3,7 +3,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
   <title>Julia Paranich</title>
   <id>https://Jule4ka.github.io/blog/feed.atom</id>
-  <updated>2021-12-30T09:59:20Z</updated>
+  <updated>2022-08-03T11:00:40Z</updated>
   <author>
     <name>Julia</name>
   </author>
@@ -19,13 +19,17 @@
       <name>Julia</name>
     </author>
     <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/2021/Ideas/"/>
-    <summary type="html">&lt;h2&gt;Ideas for blog posts. Maybe i'll finally do it some day :)&lt;/h2&gt;
-&lt;h4&gt;2021&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Diving/Trust + Testing/pairing/collaboration&lt;/li&gt;
-&lt;li&gt;Anger Management and Expectations Alignment at work&lt;/li&gt;
-&lt;li&gt;Taking control over your craziness :) &lt;/li&gt;
-&lt;li&gt;Incident in the train (fu-fu-fu)... continuity, circularity&lt;/li&gt;
-&lt;/ul&gt;</summary>
+    <summary type="html">&lt;section id="ideas-for-blog-posts-maybe-i-ll-finally-do-it-some-day"&gt;
+&lt;h2&gt;Ideas for blog posts. Maybe i'll finally do it some day :)&lt;/h2&gt;
+&lt;section id="section-1"&gt;
+&lt;h3&gt;2021&lt;/h3&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;p&gt;Diving/Trust + Testing/pairing/collaboration&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Anger Management and Expectations Alignment at work&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Taking control over your craziness :)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Incident in the train (fu-fu-fu)... continuity, circularity&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/section&gt;
+&lt;/section&gt;</summary>
   </entry>
 </feed>

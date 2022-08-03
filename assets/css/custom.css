@@ -98,3 +98,18 @@ button {
 	font-family: 'PT Mono', sans-serif;
 	font-size: 1.2rem;
 }
+
+
+.gallery {
+    margin: 10 px 50 px;
+    justify-content: center;}
+
+.gallery img {
+    transition: 1s;
+    padding: 15px;
+    width: 33%;}
+
+.gallery img:hover {
+    filter: grayscale(100%);
+    transform: scale(1.1);
+    }
