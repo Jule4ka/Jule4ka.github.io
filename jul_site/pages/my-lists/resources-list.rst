@@ -9,12 +9,12 @@
 .. type: text
 .. hidetitle: true
 
-That's where I am learning from
+Learning
 ===============================================
 
 Courses
 -----------------
-2021:
+2021
 ~~~~~~~~
 * Moralities of Everyday Life link_ via Coursera, by Paul Bloom - wide exposure to different perspectives. Paul Bloom is a sweetheart :)
 * Justice link1_ via edx, by Michael Sandel - eye-opening and controversial. So far the best content-wise.
@@ -22,25 +22,23 @@ Courses
 * Python Koans link3_ - nice intro
 * Rapid Software Testing Explored link4_ with James Bach - I want to do more. Impressive
 * Commercial certifications (not worthy to be described in details)
+* MS UvA Information Systems  link5_
 
 .. _link: https://www.coursera.org/learn/moralities/home/welcome
 .. _link1: https://learning.edx.org/course/course-v1:HarvardX+ER22.1x+2T2020/home
 .. _link2: https://associationforsoftwaretesting.org/bbst-black-box-software-testing-courses/
 .. _link3: https://github.com/gregmalcolm/python_koans
 .. _link4: https://www.satisfice.com/rapid-software-testing-explored>
+.. _link5: https://www.uva.nl/en/programmes/masters/information-studies-information-systems/information-systems.html
 
 Humans
 -----------------
-
-These humans inspired me and enabled me to move forward.</p>
 * James Bach
 * Paul Bloom
 * Judith Butler
 
-Conferences and Talks list
+Conferences and Talks
 ------------------------------------
-
-I came to realisation that conferences and talks can and do bring value
 
 2021
 ~~~~~~~~

@@ -20,61 +20,35 @@ Activities and hobbies list
     - Kickboxing
     - Dancing
     - Badminton
+    - Squash
+    - Climbing
+    - Skating (ice and roller)
+    - Skiing
 * Other
     - Travelling
     - Camping
     - Games
     - Events
+    - Meetup
+    - Couchsurfing
+    - Diving
 * Creative do and consume
     - Photography
     - Piano
-
-    </tr>
-    <tr>
-      <td>Hobby other regular</td>
-      <td>Travel</td>
-<td>Photography</td>
-<td>Piano</td>
-<td>Games</td>
-<td>Events</td>
-    </tr>
-    <tr class="sched-green">
-      <td>Hobby sport sometimes</td>
-      <td>Squash</td>
-<td>Hiking/Climbing</td>
-<td>Skiing</td>
-<td>Skating (roller and ice)</td>
-<td>Diving</td>
-    </tr>
-    <tr class="sched-purple">
-      <td>To try</td>
-      <td>SUP</td>
-<td>MTB</td>
-<td>Dancing</td>
-<td>Softball</td>
-<td>Water sports</td>
-    </tr>
-    <tr class="sched-purple">
-      <td>To try</td>
-      <td>Snowboarding</td>
-<td>Impro</td>
-<td>Pubquiz</td>
-<td>Volunteer</td>
-<td>Pro-bono projects</td>
-    </tr>
-
-    <tr class="sched-purple">
-      <td>To learn</td>
-      <td>Wine course</td>
-<td>Clown</td>
-<td>Drums (african)</td>
-<td>DIY</td>
-    </tr>
-    <tr class="sched-purple">
-      <td>To talk</td>
-      <td>Couchsurfing</td>
-<td>Meetup</td>
-<td>Catch up with people</td>
-    </tr>
-  </tbody>
-</table>
+    - Games
+    - Events
+    - Impro
+    - Pubquiz
+* To try
+    - Dancing
+    - MTB
+    - SUB
+    - Softball
+    - Water sports
+    - Snowboarding
+    - Pro-bono project (interview, data?)
+* To learn
+    - Public speaking
+    - Wine course
+    - Clown
+    - Drums

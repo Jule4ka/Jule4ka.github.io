@@ -9,11 +9,19 @@
 .. type: text
 .. hidetitle: false
 
-Travels List
+Travelling
 ===============================================
 
-2021 - Corona, new job, studying -> not that many travels
+2021
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-1. July 2021 - Ameland (Netherlands)
-2. August 2021 - Kyiv + Odessa (Ukraine)
-3. November 2021 - Frankfurt + Reine valley (Germany)
+#. July 2021 - Ameland (Netherlands)
+#. August 2021 - Kyiv + Odessa (Ukraine)
+#. November 2021 - Frankfurt + Reine valley (Germany)
+
+2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. February 2022 - Romania (Bucharest + Brasov)
+#. March 2022 - France (skiing)
+#. July 2022 - Georgia + Armenia
+#. July 2022 - Norway (Pulpit Rock)
+#. August 2022 - UK (London + Cambridge)
