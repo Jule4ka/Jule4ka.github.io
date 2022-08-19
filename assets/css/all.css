@@ -1109,6 +1109,12 @@ article .metadata {
     }
 }
 
+
+body {
+background-color: #222831;
+color: #ECECEC;
+}
+
 @font-face{
   font-family: 'PT Mono';
   src: url('/assets/fonts/PTMono-Regular.ttf');
@@ -1125,13 +1131,18 @@ div.container {
  	max-width: 960px;
  }
 
+.blog-header-logo {
+ 	color: #76549A!important;
+ 	font-family: 'PT Mono', sans-serif;
+ }
+
 .navbar a {
 	font-family: 'PT Mono', sans-serif;
-	color: #33ff33 !important;
+	color: #F2A365 !important;
 }
 
 .navbar {
-	background-color: #000000 !important;
+	background-color: #222831 !important;
 }
 
 .navbar-brand {
@@ -1144,7 +1155,7 @@ div.container {
 }
 
 .nav-item {
-	border-color: #33ff33;
+	border-color: #ECECEC;
 	border-style: solid;
 	border-width: 0px 1px 0px 0px;
 	padding-left: 15px;
@@ -1153,7 +1164,7 @@ div.container {
 
 
 .nav-item:last-child {
-	border-color: #33ff33;
+	border-color: #ECECEC;
 	border-style: solid;
 	border-width: 0px 0px 0px 0px;
 	padding-left: 15px;
@@ -1187,6 +1198,8 @@ div.container {
 
 .body-content h1, h2, h3, h4, h5, h6 {
 	font-family: 'PT Mono', sans-serif;
+	color: #F2A365;
+
 }
 
 .body-content {
@@ -1194,7 +1207,8 @@ div.container {
 }
 
 .body-content a {
-	color: #7030a0;
+	color: #76549A;
+	font-family: 'PT Mono', sans-serif;
 }
 
 .sched-green {
