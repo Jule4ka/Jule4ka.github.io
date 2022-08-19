@@ -16,3 +16,7 @@ nikola serve --browser
 
 Refs
 https://getnikola.com/quickref.html
+
+
+CSS colors:
+https://www.w3schools.com/cssref/css_colors.asp
