@@ -2,10 +2,10 @@
 .. title: Ideas
 .. slug: Ideas
 .. date: 2021-04-29 15:52:23 UTC+02:00
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 .. hidetitle: false
 
