@@ -321,3 +321,5 @@
 'render_sources:output\\my-projects\\2021-wadlopen\\index.src.html', (1783808, 273)
 'render_sources:output\\my-projects\\2022-zoo\\index.src.html', (1788928, 273)
 'render_pages:output\\my-projects\\2022-zoo\\index.html', (1875456, 7496)
+'render_pages:output\\home\\index.html', (2002944, 4800)
+'render_sources:output\\home\\index.src.html', (2008064, 239)
