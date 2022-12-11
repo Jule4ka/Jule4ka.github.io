@@ -83,7 +83,7 @@
 'render_pages', (64512, 56)
 'copy_assets:output\\assets\\fonts\\RobotoDraftBold.woff', (65024, 330)
 'copy_assets:output\\assets\\fonts\\LICENSE.txt', (65536, 312)
-'sitemap:output\\sitemapindex.xml', (66048, 255)
+'sitemap:output\\sitemapindex.xml', (66048, 257)
 'copy_assets:output\\assets\\css\\images\\ie6\\borderBottomLeft.png', (66560, 353)
 'copy_assets:output\\assets\\css\\bootstrap-theme.min.css.map', (67072, 471)
 'render_pages:output\\my-lists\\conferences-list\\index.html', (1145344, 16130)
