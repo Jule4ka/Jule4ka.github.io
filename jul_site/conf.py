@@ -151,7 +151,6 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/my-lists/resources-list/", "Resources list"),
                 ("/my-lists/travels-list/", "Travels list"),
                 ("/my-lists/activities-list/", "Activities list"),
             ),
