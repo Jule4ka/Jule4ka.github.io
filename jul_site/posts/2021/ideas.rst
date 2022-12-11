@@ -10,7 +10,6 @@
 .. hidetitle: false
 
 Ideas for blog posts. Maybe i'll finally do it some day :)
-===========================================================================
 
 2021
 -----------------

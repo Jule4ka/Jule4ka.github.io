@@ -157,6 +157,13 @@ NAVIGATION_LINKS = {
             ),
             "Lists"
         ),
+        (
+            (
+                ("/my-sketch-notes/monday-morning-data-chat/", "Monday Morning Data Chat"),
+            ),
+            "Sketch Notes"
+        ),
+
         ("/my-work/", "Work"),
         (
             (
@@ -338,7 +345,7 @@ TIMEZONE = "Europe/Amsterdam"
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
     "rest": ['.rst', '.txt'],
-    # "markdown": ['.md',  '.mdown', '.markdown'],
+    "markdown": ['.md',  '.mdown', '.markdown'],
     # "textile": ['.textile'],
     # "txt2tags": ['.t2t'],
     # "bbcode": ['.bb'],
