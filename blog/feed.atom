@@ -3,7 +3,7 @@
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
   <title>Julia Paranich</title>
   <id>https://Jule4ka.github.io/blog/feed.atom</id>
-  <updated>2022-08-22T07:12:39Z</updated>
+  <updated>2022-08-22T12:15:29Z</updated>
   <author>
     <name>Julia</name>
   </author>
@@ -19,17 +19,48 @@
       <name>Julia</name>
     </author>
     <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/2021/Ideas/"/>
-    <summary type="html">&lt;section id="ideas-for-blog-posts-maybe-i-ll-finally-do-it-some-day"&gt;
-&lt;h2&gt;Ideas for blog posts. Maybe i'll finally do it some day :)&lt;/h2&gt;
+    <summary type="html">&lt;p&gt;Ideas for blog posts. Maybe i'll finally do it some day :)&lt;/p&gt;
 &lt;section id="section-1"&gt;
-&lt;h3&gt;2021&lt;/h3&gt;
+&lt;h2&gt;2021&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;Diving/Trust + Testing/pairing/collaboration&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Anger Management and Expectations Alignment at work&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Taking control over your craziness :)&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Incident in the train (fu-fu-fu)... continuity, circularity&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/section&gt;
+&lt;/section&gt;</summary>
+  </entry>
+  <entry>
+    <title>Research</title>
+    <id>https://Jule4ka.github.io/blog/2022/Ideas/</id>
+    <updated>2021-04-29T15:52:23+02:00</updated>
+    <published>2021-04-29T15:52:23+02:00</published>
+    <author>
+      <name>Julia</name>
+    </author>
+    <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/2022/Ideas/"/>
+    <summary type="html">&lt;p&gt;I decided to join a
+&lt;a class="reference external" href="https://www.uva.nl/en/programmes/masters/information-studies-information-systems/information-systems.html"&gt;Master Studies in Information systems&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One of the courses from last year was aimed to teach students to collaborate
+and apply their knowledge to solving a complex problem in a real world project.&lt;/p&gt;
+&lt;p&gt;One of the offered working methods was lectures the aim of which was to provide enough pointers
+to further help students to work structurally on the project. The lectures provided overview on
+scientific research necessity and applicability as well as addressed quantitative and qualitative
+research methods.&lt;/p&gt;
+&lt;section id="research-why-and-how"&gt;
+&lt;h2&gt;Research - Why and How&lt;/h2&gt;
+&lt;p&gt;Goals -&amp;gt; Vision -&amp;gt; Strategy -&amp;gt; Research -&amp;gt; Innovation -&amp;gt; Team Work -&amp;gt; Growth
+Type of researches:
+* rationalist - criterion of the truth is not sensory but intellectual and deductive
+* empiricist - knowledge comes only or primarily from sensory experience
+* pragmatist - words and thought are considered as tools and instruments for prediction, problem solving and action.
+Reject the idea that the function of thought is to describe, represent or mirror reality
+* constructivist - scientific knowledge is constructed by the scientific community which
+seeks to measure and construct models of the natural world.
+* idealist - 'reality' is in some way indistinguishable or inseparable from human perception and/or understanding,
+that it is in some sense mentally constructed, or that it is otherwise closely connected to ideas.
+* naturalized epistemologist - considers the evolutionary role of knowledge for agents living and evolving in the workld.
+* sceptics - questions the possibility of human knowledge, either in particular domains or on a general level.&lt;/p&gt;
 &lt;/section&gt;</summary>
   </entry>
 </feed>
