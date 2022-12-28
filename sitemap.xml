@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://Jule4ka.github.io/</loc>
-  <lastmod>2022-12-11T17:50:00Z</lastmod>
+  <lastmod>2022-12-22T14:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/2021/</loc>
@@ -15,7 +15,7 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/archive.html</loc>
-  <lastmod>2022-12-11T19:02:00Z</lastmod>
+  <lastmod>2022-12-28T14:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/</loc>
@@ -35,14 +35,10 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/index.src.html</loc>
-  <lastmod>2022-12-08T11:40:00Z</lastmod>
+  <lastmod>2022-12-22T14:04:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-lists/activities-list/</loc>
-  <lastmod>2022-08-22T07:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://Jule4ka.github.io/my-lists/resources-list/</loc>
   <lastmod>2022-08-22T07:12:00Z</lastmod>
  </url>
  <url>
@@ -66,11 +62,19 @@
   <lastmod>2022-08-03T11:27:00Z</lastmod>
  </url>
  <url>
+  <loc>https://Jule4ka.github.io/my-sketch-notes/different-talks/</loc>
+  <lastmod>2022-12-28T14:07:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://Jule4ka.github.io/my-sketch-notes/monday-morning-data-chat/</loc>
   <lastmod>2022-12-11T17:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-work/</loc>
   <lastmod>2022-08-22T07:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/tell-me/</loc>
+  <lastmod>2022-12-22T14:09:00Z</lastmod>
  </url>
 </urlset>
