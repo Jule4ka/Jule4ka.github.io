@@ -159,11 +159,12 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/my-sketch-notes/monday-morning-data-chat/", "Monday Morning Data Chat"),
+                ("/my-sketch-notes/different-talks/", "Collection Of Talks From Different Places"),
             ),
             "Sketch Notes"
         ),
 
-        ("/my-work/", "Work"),
+        ("/tell-me/", "Tell Me"),
         (
             (
                 ("/blog/", "My blog"),
