@@ -9,7 +9,7 @@
 .. type: text
 .. hidetitle: false
 
-# Sketch Notes from Different Talks
+# Notes from random talks I bump into
 
 #### 2022
 
