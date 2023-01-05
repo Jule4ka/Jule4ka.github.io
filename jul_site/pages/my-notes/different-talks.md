@@ -25,3 +25,10 @@ Recommended resources:
 My notes:
 
 ![](/images/pages/2022/Misc/Coalesce_Marielle_Dado.jpg)
+
+
+###### Coalesce 2022 - [The future of Data Modelling](https://www.linkedin.com/video/event/urn:li:ugcPost:6986056970424262656/) with Armon Petrossian, Kent Graziano and Matt Florian
+
+My notes:
+
+![](/images/pages/2022/Misc/Coalesce_io_the_future_of_DM.jpg)
