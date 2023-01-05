@@ -348,7 +348,7 @@
 'render_posts:cache\\pages\\my-sketch-notes\\different-talks.html', (2106880, 425)
 'scale_images:output\\images\\pages\\2022\\MMDC\\Coalesce_Marielle_Dado.jpg', (2107392, 287)
 'scale_images:output\\images\\pages\\2022\\Misc\\Coalesce_Marielle_Dado.jpg', (2107904, 287)
-'render_pages:output\\my-notes\\different-talks\\index.html', (2108416, 4898)
+'render_pages:output\\my-notes\\different-talks\\index.html', (2108416, 4896)
 'render_sources:output\\my-notes\\different-talks\\index.md', (2113536, 276)
 'render_sources:output\\my-notes\\monday-morning-data-chat\\index.md', (2114048, 294)
 'render_pages:output\\my-notes\\monday-morning-data-chat\\index.html', (2114560, 4943)
