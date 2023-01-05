@@ -9,7 +9,7 @@
 .. type: text
 .. hidetitle: false
 
-# Sketch Notes from Monday Morning Data Chat
+# Notes from Monday Morning Data Chat
 
 #### 2022
 
