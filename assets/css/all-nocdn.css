@@ -1119,7 +1119,7 @@ article .metadata {
 
 body {
 background-color: #222831;
-color: #ECECEC;
+color: #ececec;
 }
 
 @font-face{
@@ -1168,7 +1168,6 @@ div.container {
 	padding-left: 15px;
 	padding-right: 15px;
 }
-
 
 .nav-item:last-child {
 	border-color: #ECECEC;
@@ -1245,3 +1244,13 @@ button {
     filter: grayscale(100%);
     transform: scale(1.1);
     }
+
+.ko-fi {
+  border: none;
+  color: #222831;
+  padding: 5px 5px;
+  text-align: center;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+  background-color: #76549A;} /* purple */

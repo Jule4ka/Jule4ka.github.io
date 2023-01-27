@@ -9,13 +9,14 @@
 .. type: text
 .. hidetitle: false
 
-List of people who inspired me at some point
+List of people who inspire me
 ===============================================
-* Ася Казанцева - научный журналист, популяризатор науки - за интервью и постоянную поддержку Украины
-* Катерина Гордееве - журналист - за пронизывающую человечность во время войны
-* Чулпан Хаматова - актриса - за то, что я ей верю
-* Татьяна Черниговская - ученый, популяризатор науки - за призыв читать Гоголя и многое другое
+* Ася Казанцева - научный журналист, популяризатор науки
+* Катерина Гордееве - журналист
+* Чулпан Хаматова - актриса
+* Андрій Хливнюк - музикант
+* Татьяна Черниговская - ученый, популяризатор науки
 * Jordan Peterson - psychoanalyst
-* Charles Bukowski - writer, for writing what I feel
-* Dostoevskiy - writer, for scrubbing my soul and putting its contents into words
-* Judith Butler - for s
+* Charles Bukowski - writer
+* Федор Достоевский - писатель
+* Judith Butler - philosopher

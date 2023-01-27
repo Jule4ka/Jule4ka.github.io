@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://Jule4ka.github.io/</loc>
-  <lastmod>2023-01-05T16:38:00Z</lastmod>
+  <lastmod>2023-01-27T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/2021/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/archive.html</loc>
-  <lastmod>2023-01-12T17:39:00Z</lastmod>
+  <lastmod>2023-01-27T13:45:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/</loc>
@@ -34,8 +34,8 @@
   <lastmod>2022-08-22T11:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://Jule4ka.github.io/blog/2023/personality-peterson-1/</loc>
-  <lastmod>2023-01-05T16:38:00Z</lastmod>
+  <loc>https://Jule4ka.github.io/blog/2023/ideas/</loc>
+  <lastmod>2023-01-27T13:41:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/2023/personality_peterson_1/</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/index.src.html</loc>
-  <lastmod>2023-01-05T15:49:00Z</lastmod>
+  <lastmod>2023-01-27T15:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-lists/activities-list/</loc>
@@ -56,10 +56,6 @@
  <url>
   <loc>https://Jule4ka.github.io/my-lists/courses-list/</loc>
   <lastmod>2023-01-05T15:56:00Z</lastmod>
- </url>
- <url>
-  <loc>https://Jule4ka.github.io/my-lists/courses_list/</loc>
-  <lastmod>2023-01-05T11:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-lists/people-list/</loc>
@@ -76,6 +72,22 @@
  <url>
   <loc>https://Jule4ka.github.io/my-notes/monday-morning-data-chat/</loc>
   <lastmod>2023-01-05T10:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-pictures/2021-immobility/</loc>
+  <lastmod>2023-01-27T13:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-pictures/2021-immobility/index.src.html</loc>
+  <lastmod>2022-08-03T10:59:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-pictures/2022-zoo/</loc>
+  <lastmod>2023-01-27T13:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-pictures/2022-zoo/index.src.html</loc>
+  <lastmod>2022-08-03T11:27:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-projects/2021-immobility/</loc>
@@ -95,6 +107,6 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/tell-me/</loc>
-  <lastmod>2022-12-22T14:09:00Z</lastmod>
+  <lastmod>2023-01-27T13:36:00Z</lastmod>
  </url>
 </urlset>

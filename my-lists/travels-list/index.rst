@@ -12,16 +12,26 @@
 Travelling
 ===============================================
 
-2021
+2023
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#. July 2021 - Ameland (Netherlands)
-#. August 2021 - Kyiv + Odessa (Ukraine)
-#. November 2021 - Frankfurt + Reine valley (Germany)
+#. January - Dusseldorf (Germany) - K20 gallery with Sachika
+#. February - Antwerpen (Belgium)
 
 2022
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#. February 2022 - Romania (Bucharest + Brasov)
-#. March 2022 - France (skiing)
-#. July 2022 - Georgia + Armenia
-#. July 2022 - Norway (Pulpit Rock)
-#. August 2022 - UK (London + Cambridge)
+#. February - Bucharest + Brasov (Romania) - workation with Sachika
+#. March - La Plagne (France) - skiing with Sachika
+#. July - Georgia + Armenia (holidays) with Sachika
+#. July - Pulpit Rock (Norway) with Sachika and Igor
+#. August - London + Cambridge (UK) with Sachika
+#. September - Aachen (Germany) with Sachika, Germaine & Roy
+#. November - Bremen (Germany) with Julia
+
+2021
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#. May - Limburg (Netherlands)
+#. July - Ameland (Netherlands) - wadlopen
+#. August - Kyiv + Odessa (Ukraine) meet everybody
+#. November - Frankfurt + Reine valley (Germany) with Sachika, Lenka & Efimka
+
+

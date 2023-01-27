@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julia Paranich</title><link>https://Jule4ka.github.io/</link><description>Random thoughts on random matters</description><atom:link href="https://Jule4ka.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jpjul13@gmail.com"&gt;Julia&lt;/a&gt; </copyright><lastBuildDate>Thu, 05 Jan 2023 16:45:27 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>personality_peterson_1</title><link>https://Jule4ka.github.io/blog/2023/personality_peterson_1/</link><dc:creator>Julia</dc:creator><description>&lt;h2&gt;Free flow on my process of perception of lectures on Personality and Its Transformations&lt;/h2&gt;</description><guid>https://Jule4ka.github.io/blog/2023/personality_peterson_1/</guid><pubDate>Thu, 05 Jan 2023 16:37:00 GMT</pubDate></item><item><link>https://Jule4ka.github.io/blog/2021/Ideas/</link><dc:creator>Julia</dc:creator><description>&lt;p&gt;Ideas for blog posts. Maybe i'll finally do it some day :)&lt;/p&gt;
-&lt;section id="section-1"&gt;
-&lt;h2&gt;2021&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Diving/Trust + Testing/pairing/collaboration&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Anger Management and Expectations Alignment at work&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Taking control over your craziness :)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Incident in the train (fu-fu-fu)... continuity, circularity&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/section&gt;</description><guid>https://Jule4ka.github.io/blog/2021/Ideas/</guid><pubDate>Thu, 29 Apr 2021 13:52:23 GMT</pubDate></item><item><link>https://Jule4ka.github.io/blog/2022/Ideas/</link><dc:creator>Julia</dc:creator><description>&lt;p&gt;I decided to join a
-&lt;a class="reference external" href="https://www.uva.nl/en/programmes/masters/information-studies-information-systems/information-systems.html"&gt;Master Studies in Information systems&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;One of the courses from last year was aimed to teach students to collaborate
-and apply their knowledge to solving a complex problem in a real world project.&lt;/p&gt;
-&lt;p&gt;One of the offered working methods was lectures the aim of which was to provide enough pointers
-to further help students to work structurally on the project. The lectures provided overview on
-scientific research necessity and applicability as well as addressed quantitative and qualitative
-research methods.&lt;/p&gt;
-&lt;section id="research-why-and-how"&gt;
-&lt;h2&gt;Research - Why and How&lt;/h2&gt;
-&lt;p&gt;Goals -&amp;gt; Vision -&amp;gt; Strategy -&amp;gt; Research -&amp;gt; Innovation -&amp;gt; Team Work -&amp;gt; Growth
-Type of researches:
-* rationalist - criterion of the truth is not sensory but intellectual and deductive
-* empiricist - knowledge comes only or primarily from sensory experience
-* pragmatist - words and thought are considered as tools and instruments for prediction, problem solving and action.
-Reject the idea that the function of thought is to describe, represent or mirror reality
-* constructivist - scientific knowledge is constructed by the scientific community which
-seeks to measure and construct models of the natural world.
-* idealist - 'reality' is in some way indistinguishable or inseparable from human perception and/or understanding,
-that it is in some sense mentally constructed, or that it is otherwise closely connected to ideas.
-* naturalized epistemologist - considers the evolutionary role of knowledge for agents living and evolving in the workld.
-* sceptics - questions the possibility of human knowledge, either in particular domains or on a general level.&lt;/p&gt;
-&lt;/section&gt;</description><guid>https://Jule4ka.github.io/blog/2022/Ideas/</guid><pubDate>Thu, 29 Apr 2021 13:52:23 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Julia Paranich</title><link>https://Jule4ka.github.io/</link><description>Random thoughts on random matters</description><atom:link href="https://Jule4ka.github.io/blog/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:jpjul13@gmail.com"&gt;Julia&lt;/a&gt; </copyright><lastBuildDate>Fri, 27 Jan 2023 13:45:03 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ideas</title><link>https://Jule4ka.github.io/blog/2023/ideas/</link><dc:creator>Julia</dc:creator><description>&lt;h2&gt;Ideas for blog posts. Maybe i'll finally do it some day :)&lt;/h2&gt;
+&lt;h3&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Diving/Trust + Testing/pairing/collaboration&lt;/li&gt;
+&lt;li&gt;Anger Management and Expectations Alignment at work&lt;/li&gt;
+&lt;li&gt;Taking control over your craziness :)&lt;/li&gt;
+&lt;li&gt;Incident in the train (fu-fu-fu)... continuity, circularity&lt;/li&gt;
+&lt;/ul&gt;</description><guid>https://Jule4ka.github.io/blog/2023/ideas/</guid><pubDate>Fri, 27 Jan 2023 10:37:00 GMT</pubDate></item></channel></rss>
