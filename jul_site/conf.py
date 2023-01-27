@@ -144,10 +144,9 @@ NAVIGATION_LINKS = {
         ("/index.html", "Home"),
         (
             (
-                ("/my-projects/2021-immobility/", "2021-immobility"),
-                ("/my-projects/2022-zoo/", "2022-zoo"),
+                ("/my-pictures/2021-immobility/", "2021-immobility"),
             ),
-            "Projects"
+            "Pictures"
         ),
         (
             (
