@@ -1,6 +1,6 @@
 <!--
 .. title: Activities list
-.. slug: courses_list
+.. slug: courses-list
 .. date: 2021-05-12 16:32:21 UTC+02:00
 .. tags:
 .. category:
@@ -22,14 +22,15 @@ List of courses I've taken
 
 List of courses I am taking 
 ===============================================
+* [Personality and Its Transformations](https://www.youtube.com/playlist?list=PL22J3VaeABQApSdW8X71Ihe34eKN6XhCi) by Jordan Peterson (University of Toronto) + [resources](https://www.jordanbpeterson.com/classes/personality-and-its-transformations/)
 
 
 List of courses I want to take
 ===============================================
-* [The Making of Modern Ukraine] (https://www.youtube.com/watch?v=bJczLlwp-d8&t=2s&ab_channel=YaleCourses) by Timothy Snyder
-* [PHIL 176: Death] (https://oyc.yale.edu/philosophy/phil-176/lecture-1) by Shelly Kagan (Open Yale courses)
-* [Психолинвистика] (https://online.spbu.ru/psixolingvistika/) by Татьяна Черниговская (Санкт-Петербургский государственный университет)
-* [Classical Sociological Theory] (https://www.coursera.org/learn/classical-sociological-theory/home/week/1) (University of Amsterdam)
+* [The Making of Modern Ukraine](https://www.youtube.com/watch?v=bJczLlwp-d8&t=2s&ab_channel=YaleCourses) by Timothy Snyder
+* [PHIL 176: Death](https://oyc.yale.edu/philosophy/phil-176/lecture-1) by Shelly Kagan (Open Yale courses)
+* [Психолинвистика](https://online.spbu.ru/psixolingvistika/) by Татьяна Черниговская (Санкт-Петербургский государственный университет)
+* [Classical Sociological Theory](https://www.coursera.org/learn/classical-sociological-theory/home/week/1) (University of Amsterdam)
 * [Gamification](https://www.coursera.org/learn/gamification/home/week/1)
 * [Machine Learning](https://www.coursera.org/learn/machine-learning-course/home/week/3)
 * [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience/home/week/1)
