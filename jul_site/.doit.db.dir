@@ -62,7 +62,7 @@
 'render_sources:output\\my-lists\\reading-list\\index.md', (31232, 271)
 'render_pages:output\\my-lists\\movies-list\\index.html', (1161728, 15860)
 'copy_assets:output\\assets\\fonts\\RobotoDraftItalic.woff', (37888, 334)
-'sitemap:output\\sitemap.xml', (2200064, 6454)
+'sitemap:output\\sitemap.xml', (2200064, 6452)
 'render_pages:output\\my-lists\\studies-list\\index.html', (1262592, 16072)
 'create_bundles:output\\assets\\css\\all.css', (912384, 2300)
 'render_listings', (49152, 56)
