@@ -148,21 +148,21 @@ NAVIGATION_LINKS = {
             ),
             "Pictures"
         ),
-        (
-            (
-                ("/my-lists/travels-list/", "Travels"),
-                ("/my-lists/courses-list/", "Courses"),
-                ("/my-lists/people-list/", "People"),
-            ),
-            "Lists"
-        ),
-        (
-            (
-                ("/my-notes/monday-morning-data-chat/", "Monday Morning Data Chat"),
-                ("/my-notes/different-talks/", "Collection Of Talks From Different Places"),
-            ),
-            "Notes"
-        ),
+      #  (
+       #     (
+        #        ("/my-lists/travels-list/", "Travels"),
+         #       ("/my-lists/courses-list/", "Courses"),
+          #      ("/my-lists/people-list/", "People"),
+           # ),
+        #    "Lists"
+       # ),
+        #(
+         #   (
+          #      ("/my-notes/monday-morning-data-chat/", "Monday Morning Data Chat"),
+           #     ("/my-notes/different-talks/", "Collection Of Talks From Different Places"),
+           #),
+           # "Notes"
+        #),
 
         ("/tell-me/", "Tell Me"),
         (
