@@ -1,7 +1,7 @@
 <!--
 .. date: 2025-05-21 14:15:00
 
-# Ideas for blog posts. Maybe i'll finally do it some day :)
+## Ideas for blog posts. Maybe i'll finally do it some day :)
 
 The World Economic Forum named 'Misinformation and disinformation' the #4 global risk in their Global Risks Report 2025, with #1 short-term impact (2 years) and #5 in the long term (10 years). 👉 https://lnkd.in/g8GNEM7Y
 

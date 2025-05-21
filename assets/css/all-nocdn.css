@@ -1161,7 +1161,7 @@ article .metadata {
 
 /* body */
 body {
-background-color: #222831; /*dark blue */
+background-color:  #222831; /*dark blue */
 color: #A9A9A9; /* grey */
 }
 
@@ -1176,7 +1176,7 @@ color: #A9A9A9; /* grey */
 }
 
 .body-content a {
-	color: #76549A; /* purple */
+	color: #76549A;  /* purple */
 	font-family: 'PT Mono', sans-serif;
 }
 button {
@@ -1203,17 +1203,17 @@ div.container {
  }
 
 .blog-header-logo {
- 	color: #76549A!important;  /* purple */
+ 	color:  #76549A!important;   /*purple */
  	font-family: 'PT Mono', sans-serif;
  }
 
 .navbar a {
 	font-family: 'PT Mono', sans-serif;
-	color: #F2A365 !important;
+	color: #F2A365 !important; /*orange*/
 }
 
 .navbar {
-	background-color: #222831 !important;  /* dark blue */
+	background-color: #222831!important; /* dark blue */
 }
 
 .navbar-brand {
