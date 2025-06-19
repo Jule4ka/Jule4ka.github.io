@@ -1154,7 +1154,7 @@ article .metadata {
 
 /* body */
 body {
-background-color:  #222831; /*dark blue */
+background-color: #222831; /*dark blue */
 color: #A9A9A9; /* grey */
 }
 
@@ -1192,11 +1192,11 @@ button {
 }
 
 div.container {
- 	max-width: 960px;
+ 	max-width: 900px;
  }
 
 .blog-header-logo {
- 	color:  #76549A!important;   /*purple */
+ 	color:  #76549A !important;   /*purple */
  	font-family: 'PT Mono', sans-serif;
  }
 
@@ -1206,7 +1206,7 @@ div.container {
 }
 
 .navbar {
-	background-color: #222831!important; /* dark blue */
+	background-color: #222831 !important;  /*dark blue */
 }
 
 .navbar-brand {
