@@ -38,7 +38,7 @@ button {
 }
 
 div.container {
- 	max-width: 960px;
+ 	max-width: 900px;
  }
 
 .blog-header-logo {
@@ -52,7 +52,7 @@ div.container {
 }
 
 .navbar {
-	background-color: #222831!important; /* dark blue */
+	background-color: *#222831!important;  /*dark blue */
 }
 
 .navbar-brand {
