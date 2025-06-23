@@ -7,11 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://Jule4ka.github.io/blog/feed.atom</loc>
-  <lastmod>2025-06-19T14:34:00Z</lastmod>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/blog/rss.xml</loc>
-  <lastmod>2025-06-19T14:34:00Z</lastmod>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/attendance-report.atom</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/attendance-report.xml</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/cat_something.atom</loc>
@@ -20,6 +28,38 @@
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/cat_something.xml</loc>
   <lastmod>2025-06-19T14:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/cat_worklife.atom</loc>
+  <lastmod>2025-06-23T11:11:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/cat_worklife.xml</loc>
+  <lastmod>2025-06-23T11:11:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/cyber-warfare.atom</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/cyber-warfare.xml</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/job-search-nl.atom</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/job-search-nl.xml</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/rant.atom</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/rant.xml</loc>
+  <lastmod>2025-06-23T11:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/tag1.atom</loc>
@@ -31,6 +71,6 @@
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/sitemap.xml</loc>
-  <lastmod>2025-06-19T14:46:00Z</lastmod>
+  <lastmod>2025-06-23T12:13:00Z</lastmod>
  </sitemap>
 </sitemapindex>

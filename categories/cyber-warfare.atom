@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet href="https://Jule4ka.github.io/assets/xml/atom.xsl" type="text/xsl media="all"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
-  <title>Julia Paranich (Posts about tag1)</title>
-  <id>https://Jule4ka.github.io/categories/tag1.atom</id>
-  <updated>2025-06-19T14:34:16Z</updated>
+  <title>Julia Paranich (Posts about cyber-warfare)</title>
+  <id>https://Jule4ka.github.io/categories/cyber-warfare.atom</id>
+  <updated>2025-06-23T11:43:53Z</updated>
   <author>
     <name>Julia</name>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://Jule4ka.github.io/categories/tag1.atom"/>
-  <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/categories/tag1/"/>
+  <link rel="self" type="application/atom+xml" href="https://Jule4ka.github.io/categories/cyber-warfare.atom"/>
+  <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/categories/cyber-warfare/"/>
   <generator uri="https://getnikola.com/">Nikola</generator>
   <entry>
-    <title>Stille oorlogvoering</title>
+    <title>Stille Oorlogvoering</title>
     <id>https://Jule4ka.github.io/blog/2025/stille-oorlogvoering/</id>
     <updated>2025-05-21T00:00:00+02:00</updated>
     <published>2025-05-21T00:00:00+02:00</published>
@@ -19,11 +19,12 @@
       <name>Julia</name>
     </author>
     <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/blog/2025/stille-oorlogvoering/"/>
-    <summary type="html">&lt;div&gt;&lt;h4&gt;Blah blah :)&lt;/h4&gt;
+    <summary type="html">&lt;div&gt;&lt;h4&gt;Attendance Report&lt;/h4&gt;
 &lt;p&gt;The World Economic Forum named 'Misinformation and disinformation' the #4 global risk in their Global Risks Report 2025, with #1 short-term impact (2 years) and #5 in the long term (10 years). 👉 https://lnkd.in/g8GNEM7Y&lt;/p&gt;
 &lt;p&gt;Luckily, there are plenty of initiatives in the Netherlands helping people become more aware. Yesterday, I attended one of them: Stille Oorlogvoering: de wetenschap van moderne conflicten 🔗 https://lnkd.in/gFKE933R&lt;/p&gt;
 &lt;p&gt;During the session, two academics shared insights on cognitive manipulation and warfare through digital means, and how to fight back. One of the methods discussed was pre-bunking (based on inoculation theory), which works by exposing people to a harmless version of misinformation so they can build resistance to similar manipulations later.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://Jule4ka.github.io/blog/2025/stille-oorlogvoering/"&gt;Read more…&lt;/a&gt; (3 min remaining to read)&lt;/p&gt;&lt;/div&gt;</summary>
-    <category term="tag1" label="tag1"/>
+&lt;p&gt;&lt;a href="https://Jule4ka.github.io/blog/2025/stille-oorlogvoering/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</summary>
+    <category term="attendance-report" label="attendance-report"/>
+    <category term="cyber-warfare" label="cyber-warfare"/>
   </entry>
 </feed>
