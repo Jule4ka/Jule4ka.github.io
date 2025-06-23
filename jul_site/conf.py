@@ -148,6 +148,7 @@ NAVIGATION_LINKS = {
             ),
             "Pictures"
         ),
+        ("/cv/", "CV"),
       #  (
        #     (
         #        ("/my-lists/travels-list/", "Travels"),
@@ -164,14 +165,14 @@ NAVIGATION_LINKS = {
            # "Notes"
         #),
 
-        ("/tell-me/", "Tell Me"),
+       # ("/tell-me/", "Tell Me"),
         (
             (
                 ("/blog/", "My blog"),
-                ("/categories/", "Categories and tags"),
-                ("/archive.html", "Archive"),
-                ("/blog/rss.xml", "RSS feed"),
-                ("/blog/feed.atom", "Atom feed"),
+                ("/categories/", "Tags")
+                #("/archive.html", "Archive"),
+                #("/blog/rss.xml", "RSS feed"),
+               # ("/blog/feed.atom", "Atom feed"),
             ),
             "Blog"
         ),
