@@ -420,7 +420,7 @@
 'render_taxonomies:output\\categories\\cyber-warfare.xml', (2770944, 625)
 'render_posts:cache\\pages\\CV.html', (2771968, 341)
 'render_sources:output\\cv\\index.src.html', (2772480, 313)
-'render_pages:output\\cv\\index.html', (2778112, 4772)
+'render_pages:output\\cv\\index.html', (2778112, 4771)
 'render_posts:cache\\pages\\cv.html', (2777600, 415)
 'render_sources:output\\cv\\index.md', (2784256, 229)
 'copy_files:output\\assets\\cvs\\CV_Julia_Paranich.docx', (2784768, 296)
