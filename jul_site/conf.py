@@ -24,7 +24,7 @@ SITE_URL = "https://Jule4ka.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://Jule4ka.github.io/"
-BLOG_EMAIL = "jpjul13@gmail.com"
+BLOG_EMAIL = "julia.paranich@gmail.com"
 BLOG_DESCRIPTION = "Random thoughts on random matters"  # (translatable)
 
 # Nikola is multilingual!
