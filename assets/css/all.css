@@ -1158,11 +1158,6 @@ background-color: #222831; /*dark blue */
 color: #A9A9A9; /* grey */
 }
 
-.body-content h1, h2, h3, h4, h5, h6 {
-	font-family: 'PT Mono', sans-serif;
-	color: #F2A365; /* orange */
-
-}
 
 .body-content {
 	font-family: 'Lora', serif;
@@ -1172,6 +1167,13 @@ color: #A9A9A9; /* grey */
 	color: #76549A;  /* purple */
 	font-family: 'PT Mono', sans-serif;
 }
+
+.body-content h1, h2, h3, h4, h5, h6 {
+	font-family: 'PT Mono', sans-serif;
+	color: #F2A365; /* orange */
+}
+
+
 button {
 	font-family: 'PT Mono', sans-serif;
 	font-size: 1.2rem;
@@ -1275,11 +1277,10 @@ div.container {
     transform: scale(1.1);
     }
 
-/* not used */
-.sched-green {
-	background-color:rgb(51, 255, 51, 0.40);
-}
+/* blog entries */
+.u-url {
+    font-size: 20px;
+    color: #F2A365; /* orange */
+    }
 
-.sched-purple {
-	background-color:rgb(112, 48, 160, 0.40);
-}
+

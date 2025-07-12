@@ -1,13 +1,11 @@
 <!--
-.. title: On Competence
+.. title: On Competence and Professionalism
 .. slug: on-competence
 .. date: 2025-06-23
-.. tags: rant, job-search-nl
+.. tags: rant, job-search-nl, work-ethics
 .. type: text
-.. description: rant
+.. description: rant-schiphol
 -->
-
-### On Competence and Professionalism
 
 I recently navigated the job search process in the Dutch market. After one memorable experience, I’ve been reflecting on the meaning and value of "competence" in the professional world. I won’t name the organization involved, as my intent is rather to share the experience and ask for opinions.
 I was invited to an online interview with a potential team. The conversation went well, and I was invited to a second, in-person interview. However, upon arriving at the location, it quickly became apparent that the interviewers were under the impression it was supposed to be virtual. I found myself sitting in the reception area, surrounded by noise, conducting the interview on my phone.
