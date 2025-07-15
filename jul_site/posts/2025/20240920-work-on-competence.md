@@ -1,7 +1,7 @@
 <!--
 .. title: On Competence and Professionalism
 .. slug: on-competence
-.. date: 2025-06-23
+.. date: 2024-09-20
 .. tags: rant, job-search-nl, work-ethics
 .. type: text
 .. description: rant-schiphol

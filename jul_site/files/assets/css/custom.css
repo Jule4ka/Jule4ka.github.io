@@ -124,7 +124,7 @@ div.container {
     }
 
 /* blog entries */
-.u-url {
+.entry-title a {
     font-size: 20px;
     color: #F2A365; /* orange */
     }
