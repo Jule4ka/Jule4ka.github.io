@@ -1,5 +1,5 @@
 <!--
-.. title: Attendance Report - Stille Oorlogvoering
+.. title: Stille Oorlogvoering
 .. slug: stille-oorlogvoering
 .. date: 2025-05-21
 .. tags: cyber-warfare, attendance-report
