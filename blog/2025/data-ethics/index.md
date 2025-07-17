@@ -7,7 +7,7 @@
 .. description: data-ethics
 -->
 
-A couple of weeks ago, I had a chance to follow a Data Ethics workshop organized by SURF as part of their 'Responsible Tech' series, led by Piek Knijff (Filosofie in actie).
+A couple of weeks ago, I had a chance to follow a Data Ethics workshop organized by [SURF](https://www.surf.nl/) as part of their 'Responsible Tech' series, led by [Piek Knijff](https://www.linkedin.com/in/piek-knijff/) ([Filosofie in actie](https://www.filosofieinactie.nl/)).
 💥 An inspiring, valuable, and actionable day full of insights and reflection. Truly a balm on my tormented soul 🧘‍♀️🥹. 
 
 As someone working in the data space, with years of lived experience as an intersectional minority surrounded by disproportionately substantial amounts of complacent Nederlandse mannekes, conversations about power, representation and ethics are never abstract, they are deeply personal.
