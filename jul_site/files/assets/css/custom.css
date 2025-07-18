@@ -1,7 +1,7 @@
 /* body */
 body {
 background-color: #222831; /*dark blue */
-color: #A9A9A9; /* grey */
+color: #FFFFFF; /* #A9A9A9; grey */
 }
 
 
@@ -67,7 +67,7 @@ div.container {
 }
 
 .nav-item {
-	border-color: #A9A9A9; /*grey*/
+	border-color: #FFFFFF; /* #A9A9A9; grey*/
 	border-style: solid;
 	border-width: 0px 1px 0px 0px;
 	padding-left: 15px;
@@ -75,7 +75,7 @@ div.container {
 }
 
 .nav-item:last-child {
-	border-color: #A9A9A9; /*grey*/
+	border-color: #FFFFFF; /*#A9A9A9 grey*/
 	border-style: solid;
 	border-width: 0px 0px 0px 0px;
 	padding-left: 15px;

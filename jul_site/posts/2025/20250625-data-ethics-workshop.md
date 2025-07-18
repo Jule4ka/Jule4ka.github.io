@@ -10,7 +10,7 @@
 A couple of weeks ago, I had a chance to follow a Data Ethics workshop organized by [SURF](https://www.surf.nl/) as part of their 'Responsible Tech' series, led by [Piek Knijff](https://www.linkedin.com/in/piek-knijff/) ([Filosofie in actie](https://www.filosofieinactie.nl/)).
 💥 An inspiring, valuable, and actionable day full of insights and reflection. Truly a balm on my tormented soul 🧘‍♀️🥹. 
 
-As someone working in the data space, with years of lived experience as an intersectional minority surrounded by disproportionately substantial amounts of complacent Nederlandse mannekes, conversations about power, representation and ethics are never abstract, they are deeply personal.
+As someone working in the data space, with years of lived experience as an intersectional minority surrounded by disproportional amounts of unbearably complacent Nederlandse mannekes, conversations about power, absence/lack of representation and ethics are never abstract, they are deeply personal.
 
 <!-- TEASER_END -->
 
@@ -28,7 +28,7 @@ As someone working in the data space, with years of lived experience as an inter
   * [Tada model](https://openresearch.amsterdam/nl/page/110506/tada.city)
 * 🌱 **Ethics is emergent**. Use the 'kapstokmethode' to search for possibilities to hook ethical reflection on already existing processes and ways of working within the organization. Small consistent steps, as usual, are the key. As well as languaging. 👀 Maybe, don't call it 'ethics’ straight ahead... or some people might freak out and run away 😱🏃‍♂️
 * ⚠️**Techno-solutionistic mindset is a trap**
-* 🫱🏽‍🫲🏿 👩 We may never reach true objectivity, but **intersubjectivity is possible**. Ethics isn’t universal, it’s relational. What’s “right” depends on who’s at the table, who gets heard, and whose values are built into the system, and whose are left out. Neutrality is not reachable, but awareness, representation, and accountability are. 
+* 🫱🏽‍🫲🏿 👩 We may never reach true objectivity, but **intersubjectivity is possible**. Ethics isn’t universal, it’s relational. What’s “right” depends on who’s at the table and whose values are built into the system. Neutrality is not reachable, but awareness, representation, and accountability are. 
 * 🏛️ 𝐏𝐮𝐛𝐥𝐢𝐜 𝐯𝐚𝐥𝐮𝐞𝐬 can offer grounding and explicit direction. Some of defined values are:
   * Privacy, security, autonomy, human dignity, justice, power relations - [Rathenau](https://www.rathenau.nl/sites/default/files/2020-09/Raad-weten-met-digitalisering-Rathenau-Instituut.pdf)
   * Human rights & dignity, peaceful & just societies, diversity, environmental flourishing - [UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
