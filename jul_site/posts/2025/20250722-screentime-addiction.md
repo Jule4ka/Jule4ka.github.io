@@ -33,7 +33,7 @@ For adults, the conclusion is that excessive screen time can have significant ne
 Among potential issues, authors name eye strain, neck and shoulder pain and back pain as well as depression, anxiety and other mood disorders.
 
 From my side, I'm noticing that I have gotten addicted and that this affects my life in a bad way, it does make me miserable. 
-In the last weeks my daily screen time averaged to 3 hours. I picked this thing up 65 times a day on average!
+In the last weeks my daily screen time averaged to 3 hours. I picked this thing up aournd 95 times a day on average!
 This is insane! So, to fight it, I'll start with two things right now:
 <ul>
 <li>Get rid of hundreds of tabs I have open in Chrome and make sure I have max 5 open</li>
