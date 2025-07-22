@@ -7,6 +7,10 @@
 .. description: Report of attendance
 -->
 
+<div class ="blog_pic">
+    <img class="blog_pic" src="/images/posts/2025/stille-oorlog.jpg ">
+</div>
+
 The World Economic Forum named 'Misinformation and disinformation' the #4 
 global risk in their [Global Risks Report 2025](https://www.weforum.org/publications/global-risks-report-2025/digest/), with #1 short-term impact (2 years) and #5 in the long term (10 years).
 
@@ -25,4 +29,3 @@ ___
 
 Loveliest people, please-please-please actively protect your brains. Because if you don’t address it, it will address you. 🧠 > 🌀 + 🕳️
 
-<img src="/images/posts/2025/stille-oorlog.jpg "  width="300"/>
