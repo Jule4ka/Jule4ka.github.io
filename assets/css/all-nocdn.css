@@ -1186,6 +1186,10 @@ button {
 	font-size: 1.2rem;
 }
 
+p{
+text-align: justify;
+}
+
 /* fonts */
 
 @font-face{
@@ -1290,4 +1294,14 @@ div.container {
     color: #F2A365; /* orange */
     }
 
+div.blog_pic{
+    text-align: center;
+}
+
+img.blog_pic{
+    width: 400px;
+    border: 10px solid #F2A365; /*orange*/
+    padding: 10px;
+    margin: 10px;
+}
 
