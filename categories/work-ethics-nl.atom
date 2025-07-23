@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet href="https://Jule4ka.github.io/assets/xml/atom.xsl" type="text/xsl media="all"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom">
-  <title>Julia Paranich (Posts about work-ethics)</title>
-  <id>https://Jule4ka.github.io/categories/work-ethics.atom</id>
-  <updated>2025-07-22T13:52:49Z</updated>
+  <title>Julia Paranich (Posts about work-ethics-nl)</title>
+  <id>https://Jule4ka.github.io/categories/work-ethics-nl.atom</id>
+  <updated>2025-07-23T10:26:01Z</updated>
   <author>
     <name>Julia</name>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://Jule4ka.github.io/categories/work-ethics.atom"/>
-  <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/categories/work-ethics/"/>
+  <link rel="self" type="application/atom+xml" href="https://Jule4ka.github.io/categories/work-ethics-nl.atom"/>
+  <link rel="alternate" type="text/html" href="https://Jule4ka.github.io/categories/work-ethics-nl/"/>
   <generator uri="https://getnikola.com/">Nikola</generator>
   <entry>
     <title>Sketches on workfloor experiences in the Netherlands</title>
@@ -24,7 +24,7 @@ Just no self-discipline, while I'm going to fix! :)&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://Jule4ka.github.io/blog/2025/nl-worklife-experience-report/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</summary>
     <category term="experience-report" label="experience-report"/>
     <category term="reflection" label="reflection"/>
-    <category term="work-ethics" label="work-ethics"/>
+    <category term="work-ethics-nl" label="work-ethics-nl"/>
   </entry>
   <entry>
     <title>On Competence and Professionalism</title>
@@ -39,12 +39,13 @@ Just no self-discipline, while I'm going to fix! :)&lt;/p&gt;
 &lt;img class="blog_pic" src="https://Jule4ka.github.io/images/posts/2025/empty-office.jpeg"&gt;
 &lt;/div&gt;
 
-&lt;p&gt;I recently navigated the job search process in the Dutch market. After one memorable experience, I’ve been reflecting on the meaning and value of "competence" in the professional world. I won’t name the organization involved, as my intent is rather to share the experience and ask for opinions.
+&lt;p&gt;I recently navigated the job search process in the Dutch market. After one memorable experience, &lt;/p&gt;
+&lt;p&gt;I’ve been reflecting on the meaning and value of "competence" in the professional world. I won’t name the organization involved, as my intent is rather to share the experience and ask for opinions.
 I was invited to an online interview with a potential team. The conversation went well, and I was invited to a second, in-person interview. However, upon arriving at the location, it quickly became apparent that the interviewers were under the impression it was supposed to be virtual. I found myself sitting in the reception area, surrounded by noise, conducting the interview on my phone.
 Despite the mix-up, I adapted, and the interview proceeded smoothly.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://Jule4ka.github.io/blog/2025/on-competence/"&gt;Read more…&lt;/a&gt; (1 min remaining to read)&lt;/p&gt;&lt;/div&gt;</summary>
-    <category term="job-search-nl" label="job-search-nl"/>
     <category term="rant" label="rant"/>
-    <category term="work-ethics" label="work-ethics"/>
+    <category term="reflection" label="reflection"/>
+    <category term="work-ethics-nl" label="work-ethics-nl"/>
   </entry>
 </feed>

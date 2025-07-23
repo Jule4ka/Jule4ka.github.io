@@ -1159,6 +1159,28 @@ article .metadata {
     }
 }
 
+/* homepage */
+
+.polaroid {
+    /*background-color: white;*/
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+    border-style: ridge;
+	border-color: #404040; /*very dark grey */
+	padding: 10px;
+	margin: 10px;
+	border-width: 1px;
+    }
+
+.caption {
+    text-align: center;
+    /*background-color: #CBCBCB; grey*/
+    /*color: black;*/
+    font-size: 12px;
+    margin: 1px;
+    }
+
+
 /* body */
 body {
 background-color: #222831; /*dark blue */
@@ -1168,7 +1190,7 @@ color:  #CBCBCB; /*grey */
 
 .body-content {
 	font-family: 'Lora', serif;
-	border-style: dotted;
+	border-style: ridge;
 	border-color: #404040; /*very dark grey */
 	padding: 10px;
 	margin: 10px;
