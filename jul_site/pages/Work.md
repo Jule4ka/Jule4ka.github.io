@@ -1,3 +1,15 @@
+<!--
+.. title: Work
+.. slug: Work
+.. date: 
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. hidetitle: true
+
+
 
 ### Hire me!
 I have 15 years of experience in software space, including 8+ last years dedicated to data management.
