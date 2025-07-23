@@ -18,7 +18,7 @@ in domains like climate, sustainability, energy or safety/defence.
 <br>
 <br>
 
-#### My time is for sale!
+#### My time is for sale.
 
 I am currently open for jobs in data/BI engineering/analysis.
 
