@@ -2,7 +2,7 @@
 .. title: Sketches on workfloor experiences in the Netherlands
 .. slug: nl-worklife-experience-report
 .. date: 2025-07-20
-.. tags: work-ethics, reflection, experience-report
+.. tags: work-ethics-nl, reflection, experience-report
 .. type: text
 .. description: workflooor-NL
 -->
