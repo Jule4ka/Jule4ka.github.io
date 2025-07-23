@@ -1,12 +1,6 @@
 <!--
 .. title: Work
-.. slug: Work
-.. date: 
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
+.. slug: my-work
 .. hidetitle: true
 
 
