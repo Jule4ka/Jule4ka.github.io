@@ -1,5 +1,5 @@
 <!--
-.. title: Screentime addiction
+.. title: Phone addiction
 .. slug: screen-addiction
 .. date: 2025-07-22
 .. tags: reflection, well-being
@@ -16,11 +16,11 @@ I'm addicted to my phone and I hate it. I knew it's bad. People wrote papers, [e
 and [blog posts](https://homolova.sk/blog/phone-addiction/) about it. 
 Finally, I started feeling it on my own skin.
 
-<!-- TEASER_END -->
-
 According to papers by [Devi et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10852174/)
 and  [Muppalla et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10353947/), who researched screen-time impact on children and adults correspondingly,
 excessive screen media usage has predominantly negative effects.
+
+<!-- TEASER_END -->
 
 For children, though, a slight positive impact on cognitive development has been observed, with the potential
 to enhance education and learning. However, negative effects were much more significant since screen-time
@@ -40,7 +40,7 @@ This is insane! So, to fight it, I'll start with two things right now:
 <li>Introduce a habit not to use the phone between 8PM and 9AM </li>
 </ul>
 
-Longer-term, I'd love to have a full detox with some weeks in the mountain in the tent. But let's see how it goes.
+Longer-term, I'd love to have a full detox with some weeks in the mountains in the tent. But let's see how it goes.
 Wish me luck! :)
 
 

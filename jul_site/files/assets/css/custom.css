@@ -7,6 +7,11 @@ color:  #CBCBCB; /*grey */
 
 .body-content {
 	font-family: 'Lora', serif;
+	border-style: dotted;
+	border-color: #404040; /*very dark grey */
+	padding: 10px;
+	margin: 10px;
+	border-width: 1px;
 }
 
 .body-content a {
@@ -26,6 +31,10 @@ button {
 }
 
 p{
+text-align: justify;
+}
+
+li{
 text-align: justify;
 }
 

@@ -12,11 +12,14 @@
     <img class="blog_pic" src="/images/posts/2025/kant.jpeg">
 </div>
 
-A couple of weeks ago, I had a chance to follow a Data Ethics workshop organized by [SURF](https://www.surf.nl/) as part of their 'Responsible Tech' series, led by [Piek Knijff](https://www.linkedin.com/in/piek-knijff/) ([Filosofie in actie](https://www.filosofieinactie.nl/)).
+A couple of weeks ago, I had a chance to follow a Data Ethics workshop organized by [SURF](https://www.surf.nl/) as 
+part of their 'Responsible Tech' series, led by [Piek Knijff](https://www.linkedin.com/in/piek-knijff/) 
+([Filosofie in actie](https://www.filosofieinactie.nl/)).
 💥 An inspiring, valuable, and actionable day full of insights and reflection. Truly a balm on my tormented soul 🧘‍♀️🥹. 
 
-As someone working in the data space, with years of lived experience as an intersectional minority surrounded by disproportional amounts of unbearably complacent Nederlandse mannekes, conversations about power, absence/lack of representation and ethics are never abstract, they are deeply personal.
-
+As someone who has spent considerable time in data and software space and who carries years of lived experience as an 
+intersectional minority surrounded by disproportional amounts of unbearably complacent mannekes, conversations about power, 
+lack/absence of representation and ethics are deeply personal.
 <!-- TEASER_END -->
 
 **Takeaways**:
