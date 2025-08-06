@@ -148,6 +148,12 @@ NAVIGATION_LINKS = {
             ),
             "Pictures"
         ),
+        (
+            (
+                ("/my-poems/б/", "б"),
+            ),
+            "Poems"
+        ),
         ("/my-work/", "Work"),
       #  (
        #     (
