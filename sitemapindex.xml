@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://Jule4ka.github.io/blog/feed.atom</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/blog/rss.xml</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/attendance-report.atom</loc>
@@ -47,11 +47,11 @@
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/experience-report.atom</loc>
-  <lastmod>2025-07-23T10:23:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/experience-report.xml</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/philosophy.atom</loc>
@@ -71,11 +71,11 @@
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/reflection.atom</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/reflection.xml</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/responsibletech.atom</loc>
@@ -84,6 +84,14 @@
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/responsibletech.xml</loc>
   <lastmod>2025-07-23T10:23:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/watch-read-report.atom</loc>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://Jule4ka.github.io/categories/watch-read-report.xml</loc>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/well-being.atom</loc>
@@ -95,14 +103,14 @@
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/work-ethics-nl.atom</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/categories/work-ethics-nl.xml</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://Jule4ka.github.io/sitemap.xml</loc>
-  <lastmod>2025-07-23T12:41:00Z</lastmod>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>

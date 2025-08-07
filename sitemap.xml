@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://Jule4ka.github.io/</loc>
-  <lastmod>2025-07-23T12:05:00Z</lastmod>
+  <lastmod>2025-08-05T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/2024/</loc>
@@ -19,11 +19,15 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/archive.html</loc>
-  <lastmod>2025-07-23T12:05:00Z</lastmod>
+  <lastmod>2025-08-05T18:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/</loc>
   <lastmod>2025-07-23T10:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/blog/2025/ai-for-good-2025/</loc>
+  <lastmod>2025-08-05T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/2025/data-ethics/</loc>
@@ -47,7 +51,7 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/categories/</loc>
-  <lastmod>2025-07-23T10:26:00Z</lastmod>
+  <lastmod>2025-08-05T17:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/categories/attendance-report/</loc>
@@ -86,6 +90,10 @@
   <lastmod>2025-07-23T10:23:00Z</lastmod>
  </url>
  <url>
+  <loc>https://Jule4ka.github.io/categories/watch-read-report/</loc>
+  <lastmod>2025-08-05T17:37:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://Jule4ka.github.io/categories/well-being/</loc>
   <lastmod>2025-07-23T10:23:00Z</lastmod>
  </url>
@@ -116,6 +124,22 @@
  <url>
   <loc>https://Jule4ka.github.io/my-pictures/2021-immobility/</loc>
   <lastmod>2025-07-23T10:23:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-poems/banality-wip/</loc>
+  <lastmod>2025-08-07T10:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-poems/banality/</loc>
+  <lastmod>2025-08-05T17:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-poems/my-banality/</loc>
+  <lastmod>2025-08-05T17:37:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/my-poems/%D0%B1/</loc>
+  <lastmod>2025-08-05T18:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-work/</loc>
