@@ -170,8 +170,13 @@ NAVIGATION_LINKS = {
            #),
            # "Notes"
         #),
-
-       # ("/tell-me/", "Tell Me"),
+        (
+            (
+                ("/my-kaleidoscope/sas/", "sas"),
+            ),
+            "Kaleidoscope"
+        )
+       ,
         (
             (
                 ("/blog/", "My blog"),
