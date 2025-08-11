@@ -90,7 +90,7 @@ You're of their kind<br><br>
 Nevermind<br>
 Nevermind<br>
 I had to leave<br>
-My life behind<br>
+My life behind<br><br>
 The story's told<br>
 With facts and lies<br>
 You own the world<br>
