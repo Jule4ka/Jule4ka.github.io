@@ -154,6 +154,12 @@ NAVIGATION_LINKS = {
             ),
             "Poems"
         ),
+        (
+            (
+                ("/my-basis/Leonard_Cohen/", "Leonard_Cohen"),
+            ),
+            "Basis"
+        ),
         ("/my-work/", "Work"),
       #  (
        #     (
