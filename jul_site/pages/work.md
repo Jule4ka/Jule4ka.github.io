@@ -3,6 +3,7 @@
 .. slug: my-work
 .. hidetitle: true
 
+### Labour services exposure
 I have 15 years of experience in software/data space, including 8+ last years dedicated to data management.
 <br>
 I've worked across software development, financial services and energy industries in roles such as DWH/data engineer, 

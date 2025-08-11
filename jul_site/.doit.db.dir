@@ -202,7 +202,7 @@
 'copy_files:output\\assets\\css\\custom.css', (1196032, 269)
 'render_posts:cache\\pages\\my-work.html', (1196544, 437)
 'render_sources:output\\my-work\\index.md', (1197056, 239)
-'render_pages:output\\my-work\\index.html', (3122176, 20550)
+'render_pages:output\\my-work\\index.html', (3122176, 20551)
 'render_pages:output\\my-lists\\my-music\\index.html', (1205248, 7413)
 'render_sources:output\\my-lists\\my-music\\index.md', (1212928, 259)
 'render_posts:cache\\pages\\my-lists\\my-music.html', (1213440, 381)
