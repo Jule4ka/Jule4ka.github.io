@@ -15,6 +15,9 @@ in domains like climate, sustainability, energy or safety/defence.
 <br>
 Categories that keep me engaged: taste, (socio-technical) systems, complexity, knowledge, information, holism, symmathecy,
 good old philosophy.
+<br> Universal values that I can identify with (based on Schwartz's
+[Theory of basic human values](https://en.wikipedia.org/wiki/Theory_of_basic_human_values)): self-direction, stimulation, 
+hedonism, universalism, spirituality.
 <br>
 <br>
 
