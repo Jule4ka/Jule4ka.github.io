@@ -172,7 +172,7 @@ NAVIGATION_LINKS = {
         #),
         (
             (
-                ("/my-kaleidoscope/sas/", "sas"),
+                ("/my-kaleidoscope/tbd/", "tbd"),
             ),
             "Kaleidoscope"
         )
