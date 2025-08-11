@@ -1,10 +1,10 @@
 <!--
 .. title: Leonard_Cohen
 .. slug: Leonard_Cohen
-.. hidetitle: Leonard_Cohen
+.. hidetitle: yes
 
 
-<h2> "Nevermind" </h2> <br>
+<h2> Nevermind </h2> <br>
 The war was lost <br>
 The treaty signed <br>
 I was not caught <br>
