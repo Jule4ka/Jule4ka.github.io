@@ -3,7 +3,7 @@
 .. slug: my-work
 .. hidetitle: true
 
-### Labour services exposure
+#### Labour services exposure
 I have 15 years of experience in software/data space, including 8+ last years dedicated to data management.
 <br>
 I've worked across software development, financial services and energy industries in roles such as DWH/data engineer, 
@@ -15,9 +15,6 @@ in domains like climate, sustainability, energy or safety/defence.
 <br>
 Categories that keep me engaged: taste, (socio-technical) systems, complexity, knowledge, information, holism, symmathecy,
 good old philosophy.
-<br>
-Values that I care about (based on [theory of basic human values](https://en.wikipedia.org/wiki/Theory_of_basic_human_values))
-: self-direction, stimulation, hedonism, universalism.
 <br>
 <br>
 
