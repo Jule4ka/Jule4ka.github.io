@@ -9,7 +9,7 @@ I have 15 years of experience in software/data space, including 8+ last years de
 I've worked across software development, financial services and energy industries in 
 roles such as DWH/data engineer, data modeler, BI analyst, implementation consultant, 
 software automation engineer, business analyst, scrum master and exploratory tester. 
-I also picked up non-promotable and invisible ['glue work'] (https://www.noidea.dog/glue), sometimes voluntarily 
+I also picked up non-promotable and invisible ['glue work'](https://www.noidea.dog/glue), sometimes voluntarily 
 and sometimes as a push from males around. Thankfully to myself, I recognized it and I do not do it anymore.
 <br> Lately, I've deliberately shifted towards more society-oriented organizations.
 At the moment, I work in the energy sector as a data and information specialist. For future assignments or roles, 
