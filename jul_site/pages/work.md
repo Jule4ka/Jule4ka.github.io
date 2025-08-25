@@ -3,18 +3,21 @@
 .. slug: my-work
 .. hidetitle: true
 
-#### Labour services exposure
+#### Labour exposure
 I have 15 years of experience in software/data space, including 8+ last years dedicated to data management.
 <br>
-I've worked across software development, financial services and energy industries in roles such as DWH/data engineer, 
-data modeler, BI analyst, implementation consultant, software automation engineer, exploratory tester. 
+I've worked across software development, financial services and energy industries in 
+roles such as DWH/data engineer, data modeler, BI analyst, implementation consultant, 
+software automation engineer, business analyst, scrum master and exploratory tester. 
+I also picked up non-promotable and invisible ['glue work'] (https://www.noidea.dog/glue), sometimes voluntarily 
+and sometimes as a push from males around. Thankfully to myself, I recognized it and I do not do it anymore.
 <br> Lately, I've deliberately shifted towards more society-oriented organizations.
 At the moment, I work in the energy sector as a data and information specialist. For future assignments or roles, 
 I'm looking for opportunities at the intersection of technological innovation and societal impact, 
 in domains like climate, sustainability, energy or safety/defence.
 <br>
-Categories that keep me engaged: taste, (socio-technical) systems, complexity, knowledge, information, holism, symmathecy,
-good old philosophy.
+Categories that keep me engaged: taste, (socio-technical) systems, complexity, knowledge, information, 
+holism, symmathecy, modelling and good old philosophy.
 <br> Universal values that I can identify with (based on Schwartz's
 [Theory of basic human values](https://en.wikipedia.org/wiki/Theory_of_basic_human_values)): self-direction, stimulation, 
 hedonism, universalism, spirituality.
@@ -22,7 +25,7 @@ hedonism, universalism, spirituality.
 <br>
 
 #### My time, energy and headspace is for sale.
-I am currently open for jobs in data/BI engineering/analysis.
+I am currently open for jobs in data/information/systems/complexity modelling/analysis/engineering.
 
 ### CV's
 Authentic: [pdf](/assets/cvs/CV_Julia_Paranich.pdf) <br>
