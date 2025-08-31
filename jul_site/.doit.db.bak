@@ -97,7 +97,7 @@
 'copy_assets:output\\assets\\fonts\\fontawesome-webfont.ttf', (463872, 570)
 'copy_assets:output\\assets\\js\\jquery.min.map', (82432, 433)
 'copy_assets:output\\assets\\css\\ripples.css.map', (82944, 315)
-'render_pages:output\\index.html', (2461184, 27513)
+'render_pages:output\\index.html', (2461184, 27512)
 'scale_images', (89088, 56)
 'copy_assets:output\\assets\\fonts\\Material-Design-Icons.ttf', (89600, 341)
 'copy_assets:output\\assets\\js\\html5shiv.min.js', (90112, 315)
