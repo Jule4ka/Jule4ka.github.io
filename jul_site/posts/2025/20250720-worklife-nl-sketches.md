@@ -25,7 +25,7 @@ by management using attempts of distraction and buyouts, walked away into nothin
 and moving on.<br><br>
 •  I’m the one who at workplace and in front of males in power (why are they in this position and what exactly are they doing there?), 
 learned what “teabagging”, “lul”, “kloten” and “Prince Albert” piercing are, and the only collective reaction was unified ‘AHAHAHA! 
-We zijn allemaal zulke kanjers en zijn zo ontzettend trots op elkaar. Alles is gaaf en tof.’, patting each other backs. 
+We zijn allemaal zulke kanjers en zijn zo ontzettend trots op elkaar. Alles is gaaf en tof’, patting each other backs. 
 Meanwhile, I was left to digest it all by myself, and when I raised something softly, the reflex response was classic victim blaming. <br><br>
 •  I’m the one who asked colleagues for feedback, received 13 responses (guess from whom) telling me I should speak more Dutch (hey bro, it’s my 5th language, 
 why again do YOU faint if you have to speak your 2nd?), be more sure of myself, and speak up more (grow a dick, gal). And got 0 requests to give feedback in return.<br><br>
