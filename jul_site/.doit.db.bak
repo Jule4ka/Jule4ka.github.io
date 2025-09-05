@@ -62,7 +62,7 @@
 'render_sources:output\\my-lists\\reading-list\\index.md', (31232, 271)
 'render_pages:output\\my-lists\\movies-list\\index.html', (1161728, 15860)
 'copy_assets:output\\assets\\fonts\\RobotoDraftItalic.woff', (37888, 334)
-'sitemap:output\\sitemap.xml', (3327488, 17087)
+'sitemap:output\\sitemap.xml', (3327488, 17086)
 'render_pages:output\\my-lists\\studies-list\\index.html', (1262592, 16072)
 'create_bundles:output\\assets\\css\\all.css', (912384, 2302)
 'render_listings', (49152, 56)
@@ -508,3 +508,4 @@
 'render_pages:output\\blog\\2025\\what-is-in-the-name\\index.html', (3352576, 4151)
 'render_posts:cache\\posts\\2025\\20250828-what-is-in-the-name.html', (3409408, 432)
 'scale_images:output\\images\\posts\\2025\\unfitting-puzzle.png', (3409920, 263)
+'scale_images:output\\images\\posts\\2025\\tickets.png', (3410432, 244)
