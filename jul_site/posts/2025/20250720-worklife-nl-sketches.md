@@ -12,7 +12,7 @@
 </div>
 
 After being made redundant I decided to build a writing habit, which is something that I had in mind for a long time. 
-Just had no self-discipline so far, while I'm going to fix! :) So, here FYI is my rant which I deliberately put here, so that I remember these experiences,
+Just had no self-discipline so far, which I'm going to fix! :) So, here FYI is my rant which I deliberately put here, so that I remember these experiences,
 stay aware and keep moving on to change myself and the environment.
 <br>
 <!-- TEASER_END -->
