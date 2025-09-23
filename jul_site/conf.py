@@ -159,6 +159,8 @@ NAVIGATION_LINKS = {
                 ("/my-basis/Leonard_Cohen/", "Leonard_Cohen"),
                 ("/my-basis/Vasyl_Stus/", "Vasyl_Stus"),
                 ("/my-basis/Andrey_Makarevich/", "Andrey_Makarevich"),
+                ("/my-basis/Mario_Benedetti/", "Mario_Benedetti"),
+                ("/my-basis/People/", "People")
             ),
             "Basis"
         ),
