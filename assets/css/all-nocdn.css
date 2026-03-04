@@ -1236,7 +1236,8 @@ text-align: justify;
 }
 
 div.container {
- 	max-width: 900px;
+ 	/*max-width: 900px;*/
+	
  }
 
 .blog-header-logo {
