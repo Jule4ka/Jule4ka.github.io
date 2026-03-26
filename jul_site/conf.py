@@ -156,12 +156,12 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/my-basis/Leonard_Cohen/", "Leonard_Cohen"),
-                ("/my-basis/Vasyl_Stus/", "Vasyl_Stus"),
-                ("/my-basis/Andrey_Makarevich/", "Andrey_Makarevich"),
-                ("/my-basis/Mario_Benedetti/", "Mario_Benedetti")
+                ("/content/Leonard_Cohen/", "Leonard_Cohen"),
+                ("/content/Vasyl_Stus/", "Vasyl_Stus"),
+                ("/content/Andrey_Makarevich/", "Andrey_Makarevich"),
+                ("/content/Mario_Benedetti/", "Mario_Benedetti")
             ),
-            "Basis"
+            "Content"
         ),
         ("/my-work/", "Work"),
       #  (
