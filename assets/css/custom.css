@@ -29,11 +29,11 @@ color:  #CBCBCB; /*grey */
 
 .body-content {
 	font-family: 'Lora', serif;
-	border-style: ridge;
+	/*border-style: ridge;
 	border-color: #404040; /*very dark grey */
+	/* border-width: 1px; */
 	padding: 10px;
 	margin: 10px;
-	border-width: 1px;
 }
 
 .body-content a {
