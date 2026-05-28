@@ -163,7 +163,7 @@ NAVIGATION_LINKS = {
             ),
             "Content"
         ),
-        ("/my-work/", "Work"),
+        # ("/my-work/", "Work"),
       #  (
        #     (
         #        ("/my-lists/travels-list/", "Travels"),
