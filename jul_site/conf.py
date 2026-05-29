@@ -150,19 +150,20 @@ NAVIGATION_LINKS = {
         ),
         (
             (
-                ("/my-poems/б/", "б"),
-            ),
-            "Poems"
-        ),
-        (
-            (
-                ("/content/Leonard_Cohen/", "Leonard_Cohen"),
-                ("/content/Vasyl_Stus/", "Vasyl_Stus"),
-                ("/content/Andrey_Makarevich/", "Andrey_Makarevich"),
-                ("/content/Mario_Benedetti/", "Mario_Benedetti")
+                ("/my-content/б/", "б"),
             ),
             "Content"
         ),
+        
+        #(
+         #   (
+          #      ("/content/Leonard_Cohen/", "Leonard_Cohen"),
+           #     ("/content/Vasyl_Stus/", "Vasyl_Stus"),
+           #     ("/content/Andrey_Makarevich/", "Andrey_Makarevich"),
+           #     ("/content/Mario_Benedetti/", "Mario_Benedetti")
+           # ),
+           # "Content"
+        #), 
         # ("/my-work/", "Work"),
       #  (
        #     (
