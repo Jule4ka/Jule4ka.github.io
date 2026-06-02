@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Julia"  # (translatable)
-BLOG_TITLE = "Probing Juul"  # (translatable)
+BLOG_TITLE = "Julia Paranich"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://Jule4ka.github.io/"
@@ -144,13 +144,13 @@ NAVIGATION_LINKS = {
         ("/index.html", "Home"),
         (
             (
-                ("/my-pictures/2021-immobility/", "2021-immobility"),
+                ("/pictures/immobility/", "immobility"),
             ),
             "Pictures"
         ),
         (
             (
-                ("/my-content/б/", "б"),
+                ("/content/б/", "б"),
             ),
             "Content"
         ),
@@ -180,13 +180,12 @@ NAVIGATION_LINKS = {
            #),
            # "Notes"
         #),
-        (
-            (
-                ("/my-kaleidoscope/tbd/", "tbd"),
-            ),
-            "Kaleidoscope"
-        )
-       ,
+        #(
+         #   (
+          #      ("/my-kaleidoscope/tbd/", "tbd"),
+           # ),
+            #"Kaleidoscope"
+        #)       ,
         (
             (
                 ("/blog/", "My blog"),

@@ -8,6 +8,8 @@ site built with [Nikola](https://getnikola.com/) hosted on <https://Jule4ka.gith
 - `nikola build`
 - `nikola serve --browser`
 - `nikola help`
+- `cd venv/scripts`
+- `source activate`
 
 ## Refs
 https://getnikola.com/quickref.html
