@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://Jule4ka.github.io/</loc>
-  <lastmod>2026-05-29T12:35:00Z</lastmod>
+  <lastmod>2026-06-02T20:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/2024/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://Jule4ka.github.io/archive.html</loc>
-  <lastmod>2026-05-29T12:35:00Z</lastmod>
+  <lastmod>2026-06-02T20:37:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/blog/</loc>
@@ -118,6 +118,10 @@
   <lastmod>2026-05-28T22:26:00Z</lastmod>
  </url>
  <url>
+  <loc>https://Jule4ka.github.io/content/%D0%B1/</loc>
+  <lastmod>2026-06-02T20:37:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://Jule4ka.github.io/my-content/%D0%B1/</loc>
   <lastmod>2026-05-29T12:35:00Z</lastmod>
  </url>
@@ -150,15 +154,15 @@
   <lastmod>2026-05-28T22:26:00Z</lastmod>
  </url>
  <url>
-  <loc>https://Jule4ka.github.io/my-poems/banality-wip/</loc>
-  <lastmod>2026-05-28T22:26:00Z</lastmod>
- </url>
- <url>
-  <loc>https://Jule4ka.github.io/my-poems/%D0%B1/</loc>
-  <lastmod>2026-05-28T22:26:00Z</lastmod>
+  <loc>https://Jule4ka.github.io/my-pictures/immobility/</loc>
+  <lastmod>2026-06-02T20:39:00Z</lastmod>
  </url>
  <url>
   <loc>https://Jule4ka.github.io/my-work/</loc>
   <lastmod>2026-05-28T22:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://Jule4ka.github.io/pictures/immobility/</loc>
+  <lastmod>2026-06-02T20:39:00Z</lastmod>
  </url>
 </urlset>
