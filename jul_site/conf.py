@@ -1312,13 +1312,16 @@ GENERATE_ATOM = True
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = """
+<script>(function(){try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script>
 <script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101316585);</script>
 <script async src="//static.getclicky.com/js"></script>
 """
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = """
+<script src="/assets/js/custom.js" defer></script>
+"""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
