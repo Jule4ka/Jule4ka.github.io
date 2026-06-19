@@ -1,5 +1,5 @@
 <!--
-.. title: banality
+.. title: б
 .. slug: б
 .. hidetitle: true
 
