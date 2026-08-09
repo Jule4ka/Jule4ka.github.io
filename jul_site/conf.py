@@ -151,6 +151,7 @@ NAVIGATION_LINKS = {
         (
             (
                 ("/content/б/", "б"),
+                ("/content/baltics_monitor/", "baltics monitor")
             ),
             "Content"
         ),
