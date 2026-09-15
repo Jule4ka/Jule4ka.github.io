@@ -1,7 +1,6 @@
 <!--
 .. title: б
 .. slug: б
-.. hidetitle: true
 
 
 <br>

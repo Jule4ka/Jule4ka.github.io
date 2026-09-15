@@ -142,18 +142,13 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/index.html", "Home"),
+        ("/projects/", "Projects"),
         (
             (
-                ("/pictures/immobility/", "immobility"),
+                ("/poems/б/", "Poems"),
+                ("/pictures/immobility/", "Pictures"),
             ),
-            "Pictures"
-        ),
-        (
-            (
-                ("/content/б/", "б"),
-                ("/content/baltics_monitor/", "baltics monitor")
-            ),
-            "Content"
+            "Kaleidoscope"
         ),
         
         #(
@@ -189,13 +184,13 @@ NAVIGATION_LINKS = {
         #)       ,
         (
             (
-                ("/blog/", "My blog"),
+                ("/blog/", "All posts"),
                 ("/categories/", "Tags")
                 #("/archive.html", "Archive"),
                 #("/blog/rss.xml", "RSS feed"),
                # ("/blog/feed.atom", "Atom feed"),
             ),
-            "Blog"
+            "Writing"
         ),
     ),
 }
