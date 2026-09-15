@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Procurement pipeline | Julia Paranich</title>
+<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#33ff33">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="en" href="../../blog/rss.xml">
+<link rel="alternate" type="application/atom+xml" title="Atom" hreflang="en" href="../../blog/feed.atom">
+<link rel="canonical" href="https://Jule4ka.github.io/projects/procurement-pipeline/">
+<link rel="icon" href="../../assets/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" href="../../assets/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="../../assets/favicons/favicon-96x96.png" sizes="96x96">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><script>(function(){try{var t=localStorage.getItem('theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script><script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101316585);</script><script async src="//static.getclicky.com/js"></script><meta name="author" content="Julia">
+<meta property="og:site_name" content="Julia Paranich">
+<meta property="og:title" content="Procurement pipeline">
+<meta property="og:url" content="https://Jule4ka.github.io/projects/procurement-pipeline/">
+<meta property="og:description" content="A data-engineering take-home assignment: raw procurement and bid JSONL from three sources,
+turned into two consumer-facing tables. Runs entirely locally: no server, no
+credentials, no containers.
+
+How">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2026-09-15T19:32:42+02:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Skip to main content</a>
+
+<!-- Header and menu bar -->
+<div class="container">
+      <header class="blog-header py-3"><div class="row nbb-header align-items-center">
+          <div class="col-md-3 col-xs-2 col-sm-2" style="width: auto;">
+            <button class="navbar-toggler navbar-light bg-light nbb-navbar-toggler" type="button" data-toggle="collapse" data-target=".bs-nav-collapsible" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse bs-nav-collapsible bootblog4-search-form-holder">
+                
+            </div>
+        </div>
+          <div class="col-md-6 col-xs-10 col-sm-10 bootblog4-brand" style="width: auto;">
+            <a class="navbar-brand blog-header-logo text-dark" href="../../">
+
+            <span id="blog-title">Julia Paranich</span>
+        </a>
+          </div>
+            <div class="col-md-3 justify-content-end align-items-center bs-nav-collapsible collapse flex-collapse bootblog4-right-nav">
+            <nav class="navbar navbar-light bg-white"><ul class="navbar-nav bootblog4-right-nav"></ul></nav>
+</div>
+    </div>
+</header><nav class="navbar navbar-expand-md navbar-light bg-white static-top"><div class="collapse navbar-collapse bs-nav-collapsible" id="bs-navbar">
+            <ul class="navbar-nav nav-fill d-flex w-100">
+<li class="nav-item">
+<a href="../../index.html" class="nav-link">Home</a>
+            </li>
+<li class="nav-item dropdown">
+<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Projects</a>
+            <div class="dropdown-menu">
+                    <a href="." class="dropdown-item active">Procurement pipeline <span class="sr-only">(active)</span></a>
+                    <a href="../baltics-monitor/" class="dropdown-item">Baltics monitor</a>
+            </div>
+            </li>
+<li class="nav-item dropdown">
+<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Writing</a>
+            <div class="dropdown-menu">
+                    <a href="../../blog/" class="dropdown-item">All posts</a>
+                    <a href="../../categories/" class="dropdown-item">Tags</a>
+            </div>
+            </li>
+<li class="nav-item dropdown">
+<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kaleidoscope</a>
+            <div class="dropdown-menu">
+                    <a href="../../poems/%D0%B1/" class="dropdown-item">Poems</a>
+                    <a href="../../pictures/immobility/" class="dropdown-item">Pictures</a>
+            </div>
+
+                
+            </li>
+</ul>
+</div>
+<!-- /.navbar-collapse -->
+</nav>
+</div>
+
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+        
+        
+<article class="post-text storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Procurement pipeline</a></h1>
+
+        
+
+    </header><div class="e-content entry-content" itemprop="articleBody text">
+    <p>A data-engineering take-home assignment: raw procurement and bid JSONL from three sources,
+turned into two consumer-facing tables. Runs entirely locally: no server, no
+credentials, no containers.
+<br></p>
+<h5>How it works</h5>
+<p>A medallion architecture, one job per layer:
+<br></p>
+<ul>
+<li>
+<strong>Bronze</strong> lands everything as-is. A bad row lands and is quarantined with a reason rather than failing the load.</li>
+<li>
+<strong>Silver</strong> conforms the three sources onto one shape, casts and validates to business grain, and routes rejects to a quarantine table (never deletion).</li>
+<li>
+<strong>Gold</strong> is a Kimball star — conformed dimensions and facts, each dimension with a dummy UNKNOWN member.</li>
+<li>
+<strong>Data product</strong> publishes two views, shaped for consumers.</li>
+</ul>
+<p><br></p>
+<h5>Data model</h5>
+<p>The full dbt lineage — three sources through bronze, silver, a Kimball star in
+gold, and the two published data-product views:
+<br></p>
+<p><a href="docs/"><img alt="dbt lineage graph — raw procurement and bid sources through bronze, silver, the gold star schema and the published data-product views" src="../../assets/images/projects/procurement-pipeline-lineage.png"></a>
+<br><a href="docs/">Open the interactive lineage graph →</a>  <small>(dbt docs — click any model for its columns, tests and SQL)</small>
+<br></p>
+<h5>Validate at the input, enforce at the output</h5>
+<p>One contract at each boundary, tests in between. A Python check gates the landed
+files against acquisition's promises <em>before</em> dbt runs. The two published views
+are the only models with an <em>enforced</em> schema contract — a rename or type change
+fails the build inside a transaction, and the old view keeps serving.
+<br></p>
+<p><strong>Stack:</strong> dbt · DuckDB · Python · Claude
+<br><strong>Code:</strong> <a href="https://github.com/Jule4ka/procurement_pipeline">github.com/Jule4ka/procurement_pipeline</a></p>
+    </div>
+    
+
+</article><!--End of body content--><footer id="footer">
+            Contents © 2026         <a href="mailto:julia.paranich@gmail.com">Julia</a>
+            
+            
+        </footer>
+</div>
+</div>
+
+
+        <script src="../../assets/js/all-nocdn.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
+    </script><script src="../../assets/js/custom.js" defer></script>
+</body>
+</html>
