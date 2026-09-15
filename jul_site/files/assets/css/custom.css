@@ -298,7 +298,8 @@ nav.navbar.static-top:hover {
 	padding: .45rem .8rem;
 	transition: background .18s var(--ease), color .18s var(--ease);
 }
-.dropdown-item:hover, .dropdown-item:focus {
+.dropdown-item:hover, .dropdown-item:focus,
+.dropdown-item.active, .dropdown-item:active {
 	background: var(--accent) !important;
 	color: #fff !important;
 }
